@@ -20,3 +20,4 @@ jobs:
         # Adicione outros parâmetros conforme necessário
       env:
         CI: true
+
