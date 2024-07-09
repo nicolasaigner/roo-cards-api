@@ -2,8 +2,8 @@ const express = require('express');
 const fs = require('fs');
 const app = express();
 
-const cards = JSON.parse(fs.readFileSync('database/cards.json', 'utf8'));
-const mvps = JSON.parse(fs.readFileSync('database/mvps.json', 'utf8'));
+const cards = JSON.parse(fs.readFileSync('cards.json', 'utf8'));
+const mvps = JSON.parse(fs.readFileSync('mvps.json', 'utf8'));
 
 function determineAvailableFilters(data) {
     const filterKeys = new Set();
