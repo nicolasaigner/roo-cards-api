@@ -5,12 +5,16 @@ const app = express();
 
 let cards = [];
 let mvps = [];
+let package = {};
+
 try {
     const cardsPath = path.join(process.cwd(), 'cards.json');
     const mvpsPath = path.join(process.cwd(), 'mvps.json');
+    const packagePath = path.join(process.cwd(), 'package.json');
     
     cards = JSON.parse(fs.readFileSync(cardsPath, 'utf8'));
     mvps = JSON.parse(fs.readFileSync(mvpsPath, 'utf8'));
+    package = JSON.parse(fs.readFileSync(packagePath), 'utf8');
 } catch (e) {
     console.error('Erro ao ler os arquivos JSON:', e);
     console.log('Pasta atual:', process.cwd());
