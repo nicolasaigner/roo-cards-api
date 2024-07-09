@@ -1,0 +1,22 @@
+name: Deploy to Vercel
+
+on:
+  push:
+    branches:
+      - main  # Substitua por sua branch de produção, se for diferente
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2  # Faz checkout do seu repositório
+
+    - name: Vercel Action
+      uses: amondnet/vercel-action@v20
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }}  # Token da Vercel armazenado em segredos do GitHub
+        vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}  # ID da organização, armazenada em segredos do GitHub
+        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}  # ID do projeto, armazenada em segredos do GitHub
+        # Adicione outros parâmetros conforme necessário
+      env:
+        CI: true
