@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@vercel/node": "^3.2.2",
     "express": "^4.19.2",
-    "json-db": "^0.0.2"
+    "json-db": "^0.0.2",
+    "vercel": "^34.3.1"
   }
 }
