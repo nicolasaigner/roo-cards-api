@@ -11,7 +11,7 @@ try {
     // Usando __dirname para garantir o caminho relativo correto
     const cardsPath = path.join(__dirname, 'cards.json');
     const mvpsPath = path.join(__dirname, 'mvps.json');
-    const packagePath = path.join(__dirname, 'package.json');
+    const packagePath = path.join(__dirname, '../package.json');
     
     cards = JSON.parse(fs.readFileSync(cardsPath, 'utf8'));
     mvps = JSON.parse(fs.readFileSync(mvpsPath, 'utf8'));
