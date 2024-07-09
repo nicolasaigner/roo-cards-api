@@ -2,15 +2,21 @@ const express = require('express');
 const fs = require('fs');
 const app = express();
 
+let cards = [];
+let mvps = [];
 try {
-    const cards = JSON.parse(fs.readFileSync('./cards.json', 'utf8'));
-    const mvps = JSON.parse(fs.readFileSync('./mvps.json', 'utf8'));
+    cards = JSON.parse(fs.readFileSync('./cards.json', 'utf8'));
+    mvps = JSON.parse(fs.readFileSync('./mvps.json', 'utf8'));
 } catch(e) {
-    const cards = [];
-    const mvps = [];
-    console.log('Não foi possível ler os arquivos json');
+    console.error('Erro ao ler os arquivos JSON:', e);
+    try {
+        // Listando arquivos no diretório atual para depuração
+        const files = fs.readdirSync('./');
+        console.log('Arquivos no diretório atual:', files);
+    } catch (err) {
+        console.error('Erro ao listar arquivos do diretório:', err);
+    }
 }
-
 
 function determineAvailableFilters(data) {
     const filterKeys = new Set();
@@ -29,7 +35,7 @@ function filterByQuery(data, query) {
 }
 
 app.get('/', (req, res) => {
-    res.send('Hello from Express on Vercel!');
+    res.json({ok: true});
 });
 
 app.get('/cards/filters', (req, res) => {
