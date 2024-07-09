@@ -3,8 +3,8 @@ const fs = require('fs');
 const app = express();
 
 try {
-    const cards = JSON.parse(fs.readFileSync('cards.json', 'utf8'));
-    const mvps = JSON.parse(fs.readFileSync('mvps.json', 'utf8'));
+    const cards = JSON.parse(fs.readFileSync('./cards.json', 'utf8'));
+    const mvps = JSON.parse(fs.readFileSync('./mvps.json', 'utf8'));
 } catch(e) {
     const cards = [];
     const mvps = [];
