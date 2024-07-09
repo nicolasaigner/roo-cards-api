@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Creamy",
+        "attributes": "Dano x Inimigo Pequeno: + 8.00%",
+        "value": 8,
+        "effective": "Inimigo Pequeno",
+        "type": "tamanho",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo Pequeno + 1%",
+                    "value": 1,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo Pequeno + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo Pequeno + 3%",
+                    "value": 3,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Esquelo Operário",
+        "attributes": "Dano x Inimigo Médio: + 18.00%",
+        "value": 18,
+        "effective": "Inimigo Médio",
+        "type": "tamanho",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo Médio + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo Médio + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo Médio + 4%",
+                    "value": 4,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Minorous",
+        "attributes": "Dano x Inimigo Grande: + 18.00%",
+        "value": 18,
+        "effective": "Inimigo Grande",
+        "type": "tamanho",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo Grande + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo Grande + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo Grande + 4%",
+                    "value": 4,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mandrágora",
+        "attributes": "Dano x Inimigo de Vento: + 20.00%",
+        "value": 20,
+        "effective": "Inimigo Vento",
+        "type": "elemento",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo de Vento + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo de Vento + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo de Vento + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Vandon",
+        "attributes": "Dano x Inimigo de Fogo: + 20.00%",
+        "value": 20,
+        "effective": "Inimigo Fogo",
+        "type": "elemento",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo de Fogo + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo de Fogo + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo de Fogo + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Drainliar",
+        "attributes": "Dano x Inimigo de Água: + 20.00%",
+        "value": 20,
+        "effective": "Inimigo Água",
+        "type": "elemento",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo de Água + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo de Água + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo de Água + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Orc Esqueleto",
+        "attributes": "Dano x Inimigo de Sagrado: + 20.00%",
+        "value": 20,
+        "effective": "Inimigo Sagrado",
+        "type": "elemento",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Inimigo de Sagrado + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Inimigo de Sagrado + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Inimigo de Sagrado + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Ovo de Peco Peco",
+        "attributes": "Dano x Amorfo + 20%",
+        "value": 20,
+        "effective": "Amorfo",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Amorfo + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Amorfo + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Amorfo + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Escorpião",
+        "attributes": "Dano x Planta + 20%",
+        "value": 20,
+        "effective": "Planta",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Planta + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Planta + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Planta + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Goblin",
+        "attributes": "Dano x Bruto + 20%",
+        "value": 20,
+        "effective": "Bruto",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Bruto + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Bruto + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Bruto + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Flora",
+        "attributes": "Dano x Peixe + 20%",
+        "value": 20,
+        "effective": "Peixe",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Peixe + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Peixe + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Peixe + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Hidra",
+        "attributes": "Dano x Humanoide + 20%",
+        "value": 20,
+        "effective": "Humanoide",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Humanoide + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Humanoide + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Humanoide + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Strouf",
+        "attributes": "Dano x Demônio + 20%",
+        "value": 20,
+        "effective": "Demônio",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Demônio + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Demônio + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Demônio + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Petite",
+        "attributes": "Dano x Dragão + 20%",
+        "value": 20,
+        "effective": "Dragão",
+        "type": "raça",
+        "level": [
+            {
+                "5": {
+                    "description": "Dano x Dragão + 2%",
+                    "value": 2,
+                    "type": "%"
+                },
+                "10": {
+                    "description": "Dano x Dragão + 3%",
+                    "value": 3,
+                    "type": "%"
+                },
+                "15": {
+                    "description": "Dano x Dragão + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Andre",
+        "attributes": "ATQF: + 20",
+        "value": 20,
+        "effective": "Universal",
+        "type": "todos",
+        "level": [
+            {
+                "5": {
+                    "description": "ATQF: + 20",
+                    "value": 20,
+                    "type": ""
+                },
+                "10": {
+                    "description": "ATQF: + 20",
+                    "value": 20,
+                    "type": ""
+                },
+                "15": {
+                    "description": "ATQF: + 5%",
+                    "value": 5,
+                    "type": "%"
+                }
+            }
+        ]
+    }
+]

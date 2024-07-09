@@ -1,0 +1,275 @@
+[
+    {
+      "name": "Angeling",
+      "race": "Anjo",
+      "type": "Sagrado",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques Mortos-Vivos e de sombra para causar dano extra. Já ataques de Veneno, Vento, Terra, Fogo, Água, Sagrados e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Besouro-Ladrão Dourado",
+      "race": "Inseto",
+      "type": "Fogo",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Deviling",
+      "race": "Demônio",
+      "type": "Sombrio",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Orc Herói",
+      "race": "Humanoide",
+      "type": "Terra",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Fogo e Veneno para causar dano extra, já ataques de Terra e Vento causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Maya",
+      "race": "Inseto",
+      "type": "Terra",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Fogo e Veneno para causar dano extra, já ataques de Terra e Vento causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Senhor dos Orcs",
+      "race": "Humanoide",
+      "type": "Terra",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Fogo e Veneno para causar dano extra, já ataques de Terra e Vento causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Goblin",
+      "race": "Humanoide",
+      "type": "Vento",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques de Terra e Veneno para causar dano extra, já ataques de Água e Vento causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Drake",
+      "race": "Morto-Vivo",
+      "type": "Morto-Vivo",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques de Fogo, Sagrados e Fantasma para causar dano extra, já ataques de Veneno, Sombrio e Mortos-Vivos causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Eddga",
+      "race": "Bruto",
+      "type": "Fogo",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Abelha-Rainha",
+      "race": "Inseto",
+      "type": "Vento",
+      "size": "Pequeno",
+      "tips": "Recomenda-se o uso de ataques de Terra e Veneno para causar dano extra, já ataques de Água e Vento causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Osíris",
+      "race": "Morto-Vivo",
+      "type": "Morto-Vivo",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques de Fogo, Sagrados e Fantasma para causar dano extra, já ataques de Veneno, Sombrio e Mortos-Vivos causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Freeoni",
+      "race": "Bruto",
+      "type": "Neutro",
+      "size": "Grande",
+      "tips": "Ataques de outros tipos não causam dano extra e ataques Fantasmas causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Flor do Luar",
+      "race": "Demônio",
+      "type": "Fogo",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Drácula",
+      "race": "Demônio",
+      "type": "Sombrio",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Doppelganger",
+      "race": "Demônio",
+      "type": "Sombrio",
+      "size": "Médio",
+      "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Faraó",
+      "race": "Humanoide",
+      "type": "Sombrio",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Bafomé",
+      "race": "Demônio",
+      "type": "Sombrio",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Quimera",
+      "race": "Bruto",
+      "type": "Fogo",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Barão Coruja",
+      "race": "Demônio",
+      "type": "Neutro",
+      "size": "Grande",
+      "tips": "Ataques de outros tipos não causam dano extra e ataques Fantasmas causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Cavaleiro Sanguinário",
+      "race": "Amorfo",
+      "type": "Sombrio",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Lorde das Trevas",
+      "race": "Demônio",
+      "type": "Morto-Vivo",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Fogo, Sagrados e Fantasma para causar dano extra, já ataques de Veneno, Sombrio e Mortos-Vivos causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Hatti",
+      "race": "Bruto",
+      "type": "Água",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Vento e Veneno para causar dano extra, já ataques de água e Fogo causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Cavaleiro da Tempestade",
+      "race": "Amorfo",
+      "type": "Vento",
+      "size": "Grande",
+      "tips": "Recomenda-se o uso de ataques de Terra e Veneno para causar dano extra, já ataques de Água e Vento causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Gerente do Tempo",
+      "race": "Demônio",
+      "type": "Neutro",
+      "size": "Grande",
+      "tips": "Ataques de outros tipos não causam dano extra e ataques Fantasmas causam dano reduzido.",
+      "event": "MVP"
+    },
+    {
+      "name": "Jogadores",
+      "race": "Humanoide",
+      "type": "Neutro",
+      "size": "Médio",
+      "tips": "",
+      "event": "PvP"
+    },
+    {
+      "name": "Ódio",
+      "race": "Sagrado",
+      "type": "Planta",
+      "size": "Pequeno",
+      "tips": "",
+      "event": "Juperos"
+    },
+    {
+      "name": "Pesar",
+      "race": "Sagrado",
+      "type": "Planta",
+      "size": "Pequeno",
+      "tips": "",
+      "event": "Juperos"
+    },
+    {
+      "name": "Dragão Mutante",
+      "race": "Dragão",
+      "type": "Terra",
+      "size": "Grande",
+      "tips": "",
+      "event": "Anomalia Espaço-Tempo"
+    },
+    {
+      "name": "General",
+      "race": "Peixe",
+      "type": "Água",
+      "size": "Pequeno",
+      "tips": "",
+      "event": "Domínio Fantasma"
+    },
+    {
+      "name": "Gnomo",
+      "race": "Amorfo",
+      "type": "Terra",
+      "size": "Grande",
+      "tips": "",
+      "event": "Templo do Pesadelo"
+    },
+    {
+      "name": "Wendine",
+      "race": "Bruto",
+      "type": "Água",
+      "size": "Grande",
+      "tips": "",
+      "event": "Templo do Pesadelo"
+    },
+    {
+      "name": "Salamdra",
+      "race": "Amorfo",
+      "type": "Fogo",
+      "size": "Médio",
+      "tips": "",
+      "event": "Templo do Pesadelo"
+    },
+    {
+      "name": "Sílfide",
+      "race": "Humanoide",
+      "type": "Vento",
+      "size": "Médio",
+      "tips": "",
+      "event": "Templo do Pesadelo"
+    },
+    {
+      "name": "Mestre Elementar",
+      "race": "Fantasma",
+      "type": "Demônio",
+      "size": "Grande",
+      "tips": "",
+      "event": "Templo do Pesadelo"
+    }
+  ]
+  

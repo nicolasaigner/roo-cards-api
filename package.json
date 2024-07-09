@@ -1,0 +1,16 @@
+{
+  "name": "roo-cards-api",
+  "version": "1.0.0",
+  "description": "API Rest para consumo das cartas do Ragnarok Origin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-db": "^0.0.2"
+  }
+}
