@@ -1,17 +1,21 @@
 const express = require('express');
 const fs = require('fs');
+const path = require('path');
 const app = express();
 
 let cards = [];
 let mvps = [];
 try {
-    cards = JSON.parse(fs.readFileSync('./cards.json', 'utf8'));
-    mvps = JSON.parse(fs.readFileSync('./mvps.json', 'utf8'));
-} catch(e) {
+    const cardsPath = path.join(process.cwd(), 'cards.json');
+    const mvpsPath = path.join(process.cwd(), 'mvps.json');
+    
+    cards = JSON.parse(fs.readFileSync(cardsPath, 'utf8'));
+    mvps = JSON.parse(fs.readFileSync(mvpsPath, 'utf8'));
+} catch (e) {
     console.error('Erro ao ler os arquivos JSON:', e);
+    console.log('Pasta atual:', process.cwd());
     try {
-        // Listando arquivos no diretório atual para depuração
-        const files = fs.readdirSync('./');
+        const files = fs.readdirSync(process.cwd());
         console.log('Arquivos no diretório atual:', files);
     } catch (err) {
         console.error('Erro ao listar arquivos do diretório:', err);
@@ -35,7 +39,10 @@ function filterByQuery(data, query) {
 }
 
 app.get('/', (req, res) => {
-    res.json({ok: true});
+    res.json({
+        ok: true,
+        version: package.version
+    });
 });
 
 app.get('/cards/filters', (req, res) => {
