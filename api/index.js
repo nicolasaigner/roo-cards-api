@@ -7,20 +7,24 @@ let cards = [];
 let mvps = [];
 let package = {};
 
-const files = fs.readdirSync(process.cwd());
-console.log('Arquivos no diretório atual:', files);
-
 try {
-    const cardsPath = path.join(process.cwd(), 'cards.json');
-    const mvpsPath = path.join(process.cwd(), 'mvps.json');
-    const packagePath = path.join(process.cwd(), 'package.json');
+    // Usando __dirname para garantir o caminho relativo correto
+    const cardsPath = path.join(__dirname, 'cards.json');
+    const mvpsPath = path.join(__dirname, 'mvps.json');
+    const packagePath = path.join(__dirname, 'package.json');
     
     cards = JSON.parse(fs.readFileSync(cardsPath, 'utf8'));
     mvps = JSON.parse(fs.readFileSync(mvpsPath, 'utf8'));
-    package = JSON.parse(fs.readFileSync(packagePath), 'utf8');
+    package = JSON.parse(fs.readFileSync(packagePath, 'utf8'));
 } catch (e) {
     console.error('Erro ao ler os arquivos JSON:', e);
-    console.log('Pasta atual:', process.cwd());
+    console.log('Diretório atual:', __dirname);
+    try {
+        const files = fs.readdirSync(__dirname);
+        console.log('Arquivos no diretório:', files);
+    } catch (err) {
+        console.error('Erro ao listar arquivos do diretório:', err);
+    }
 }
 
 function determineAvailableFilters(data) {
