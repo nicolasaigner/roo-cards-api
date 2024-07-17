@@ -3,19 +3,21 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 
+const { ImgurClient } = require('imgur');
+// const client = new ImgurClient({ clientId: process.env.IMGUR_CLIENT_ID });
+
 let cards = [];
 let mvps = [];
-let package = {};
+let packageJson = {};
 
 try {
-    // Usando __dirname para garantir o caminho relativo correto
     const cardsPath = path.join(__dirname, 'cards.json');
     const mvpsPath = path.join(__dirname, 'mvps.json');
     const packagePath = path.join(__dirname, '../package.json');
-    
+
     cards = JSON.parse(fs.readFileSync(cardsPath, 'utf8'));
     mvps = JSON.parse(fs.readFileSync(mvpsPath, 'utf8'));
-    package = JSON.parse(fs.readFileSync(packagePath, 'utf8'));
+    packageJson = JSON.parse(fs.readFileSync(packagePath, 'utf8'));
 } catch (e) {
     console.error('Erro ao ler os arquivos JSON:', e);
     console.log('Diretório atual:', __dirname);
@@ -43,10 +45,23 @@ function filterByQuery(data, query) {
     });
 }
 
+async function attachImagesToCards(cards) {
+    const album = await client.getAlbum('TJAAMyH');
+    const images = album.data.images;
+
+    return cards.map(card => {
+        const image = images.find(img => img.description === card.name);
+        if (image) {
+            card.imageUrl = image.link;
+        }
+        return card;
+    });
+}
+
 app.get('/', (req, res) => {
     res.json({
         ok: true,
-        version: package.version
+        version: packageJson.version
     });
 });
 
@@ -58,9 +73,42 @@ app.get('/mvps/filters', (req, res) => {
     res.json(determineAvailableFilters(mvps));
 });
 
-app.get('/cards', (req, res) => {
-    res.json(filterByQuery(cards, req.query));
+const normalizeName = (name) => {
+    return name.replace(/ /g, '_').normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+};
+
+
+app.get('/cards', async (req, res) => {
+    const filteredCards = filterByQuery(cards, req.query);
+    const baseUrl = `${req.protocol}://${req.get('host')}/card/image`;
+
+    const cardsWithImages = filteredCards.map(card => {
+        const folderName = armamentoToFolder[card.Armamento] || 'unknown';
+        const imageName = normalizeName(card.Nome) + '.png';
+        return {
+            ...card,
+            imageUrl: `${baseUrl}/${folderName}/${imageName}`
+        };
+    });
+
+    res.json(cardsWithImages);
 });
+
+const armamentoToFolder = {
+    "Acessório": "acessorio",
+    "Armadura": "armadura",
+    "Boca": "boca",
+    "Calçado": "calcado",
+    "Capa": "capa",
+    "Chapéu": "chapeu",
+    "Costas": "costas",
+    "Face": "face",
+    "Fantasia": "fantasia",
+    "Mão Dominante": "mao_dominante",
+    "Mão Secundária": "mao_secundaria"
+};
+
+app.use('/card/image', express.static(path.join(__dirname, '../database/images/cartas')));
 
 app.get('/mvps', (req, res) => {
     res.json(filterByQuery(mvps, req.query));

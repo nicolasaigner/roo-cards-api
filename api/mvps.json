@@ -224,10 +224,10 @@
       "event": "Anomalia Espaço-Tempo"
     },
     {
-      "name": "General",
+      "name": "Maior General",
       "race": "Peixe",
       "type": "Água",
-      "size": "Pequeno",
+      "size": "Pequeno/Médio",
       "tips": "",
       "event": "Domínio Fantasma"
     },
