@@ -73,11 +73,6 @@ app.get('/mvps/filters', (req, res) => {
     res.json(determineAvailableFilters(mvps));
 });
 
-const normalizeName = (name) => {
-    return name.replace(/ /g, '_').normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-};
-
-
 app.get('/cards', async (req, res) => {
     const filteredCards = filterByQuery(cards, req.query);
     const baseUrl = `${req.protocol}://${req.get('host')}/card/image`;
