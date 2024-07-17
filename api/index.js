@@ -84,7 +84,7 @@ app.get('/cards', async (req, res) => {
 
     const cardsWithImages = filteredCards.map(card => {
         const folderName = armamentoToFolder[card.Armamento] || 'unknown';
-        const imageName = normalizeName(card.Nome) + '.png';
+        const imageName = `${card.Nome}.png`;
         return {
             ...card,
             imageUrl: `${baseUrl}/${folderName}/${imageName}`
