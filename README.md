@@ -11,6 +11,10 @@ A **Roo Cards API** é uma API pública e open-source que fornece informações 
 - **Filtros Dinâmicos**: Permite filtrar cartas por qualquer atributo, como nome ou armamento.
 - **Imagens das Cartas**: Fornece URLs para as imagens das cartas, facilitando a integração visual.
 
+## Exemplo rodando no Vercel
+
+https://roo-cards-api.vercel.app/cards
+
 ## Como Usar
 
 Para começar a usar a Roo Cards API, você pode fazer requisições HTTP GET para os seguintes endpoints:
@@ -79,6 +83,10 @@ A rote fica dessa forma:
 ```
 GET /card/image/chapeu/Abelha-Rainha (Ilusória).png
 ```
+
+## Observações adicionais
+
+Essa API é um projeto pessoal em que está em desenvolvimento, não é algo que estou totalmente focado a fazer no momento, mas as vezes estou atualizando e melhorando. No momento o código é para retornar as cartas, atributos, desperto e imagens das mesmas. 
 
 ## Contribuindo
 
