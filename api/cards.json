@@ -12,7 +12,7 @@
   {
     "Nome": "Abelha-Rainha (Ilusória)",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Remove o custo de minério mágico|Consumo de PM +50.00% das habilidades",
+    "Atributos Básicos": "Remove o custo de minério mágico Consumo de PM +50.00% das habilidades",
     "Desperto": {
       "Nv. 5": "Dano M +0.50%",
       "Nv. 10": "Dano M +1%",
@@ -22,7 +22,7 @@
   {
     "Nome": "Alarme",
     "Armamento": "Calçado",
-    "Atributos Básicos": "PV Máx +4.00%|VIT +2|Ao sofrer ATQF, tem 10% de chance de auto conjurar Supernova Nv.1 (Resf.: 10s)",
+    "Atributos Básicos": "PV Máx +4.00% VIT +2 Ao sofrer ATQF, tem 10% de chance de auto conjurar Supernova Nv.1 (Resf.: 10s)",
     "Desperto": {
       "Nv. 5": "VIT +3",
       "Nv. 10": "PV Máx +2%",
@@ -32,7 +32,7 @@
   {
     "Nome": "Alice",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Redução de Dano x Chefe +15.00%|Redução de Dano x Inimigos não|Chefe -5.00%",
+    "Atributos Básicos": "Redução de Dano x Chefe +15.00% Redução de Dano x Inimigos não Chefe -5.00%",
     "Desperto": {
       "Nv. 5": "Redução de Dano x Inimigos não Chefe +5%",
       "Nv. 10": "Redução de Dano x Chefe +2%",
@@ -42,7 +42,7 @@
   {
     "Nome": "Alma Penada",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQM +5|Dano M +1.00%",
+    "Atributos Básicos": "ATQM +5 Dano M +1.00%",
     "Desperto": {
       "Nv. 5": "Dano M +0.50%",
       "Nv. 10": "Dano M +1%",
@@ -52,7 +52,7 @@
   {
     "Nome": "Alma Penada (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQM +10|ATQM +2.00%|Dano M +2.00%",
+    "Atributos Básicos": "ATQM +10 ATQM +2.00% Dano M +2.00%",
     "Desperto": {
       "Nv. 5": "Dano M +1%",
       "Nv. 10": "Dano M +2%",
@@ -72,7 +72,7 @@
   {
     "Nome": "Ambernite",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "DEFF +2|PV Máx +200",
+    "Atributos Básicos": "DEFF +2 PV Máx +200",
     "Desperto": {
       "Nv. 5": "DEFF +3",
       "Nv. 10": "PV Máx +1%",
@@ -82,7 +82,7 @@
   {
     "Nome": "Ambernite Rei",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "PV Máx. +250|Refino +10: PV Máx. +5%.",
+    "Atributos Básicos": "PV Máx. +250 Refino +10: PV Máx. +5%.",
     "Desperto": {
       "Nv. 5": "PV Máx. +150",
       "Nv. 10": "PV Máx. +200",
@@ -94,15 +94,15 @@
     "Armamento": "Mão Dominante",
     "Atributos Básicos": "Na Guerra do Emperium, Dano x Humanoide +12%",
     "Desperto": {
-      "Nv. 5": "Na Guerra do Emperium,|Dano x Humanoide +1%",
-      "Nv. 10": "Na Guerra do Emperium,|Dano x Humanoide +2%",
-      "Nv. 15": "Na Guerra do Emperium,|Dano x Humanoide +3%"
+      "Nv. 5": "Na Guerra do Emperium, Dano x Humanoide +1%",
+      "Nv. 10": "Na Guerra do Emperium, Dano x Humanoide +2%",
+      "Nv. 15": "Na Guerra do Emperium, Dano x Humanoide +3%"
     }
   },
   {
     "Nome": "Ancião Ancestral",
     "Armamento": "Capa",
-    "Atributos Básicos": "Resistência de Dano Neutro +15.00%|Refino +12: Dano de Terra +5%",
+    "Atributos Básicos": "Resistência de Dano Neutro +15.00% Refino +12: Dano de Terra +5%",
     "Desperto": {
       "Nv. 5": "Resistência de Dano Neutro +2% +3%",
       "Nv. 10": "Resistência de Dano Neutro",
@@ -112,7 +112,7 @@
   {
     "Nome": "Andarilho",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +25|Seu ATQF tem 4% de chance causar Dano AdE (Resf.: 2s)",
+    "Atributos Básicos": "ATQF +25 Seu ATQF tem 4% de chance causar Dano AdE (Resf.: 2s)",
     "Desperto": {
       "Nv. 5": "ATQF +30",
       "Nv. 10": "ATQF +60",
@@ -122,7 +122,7 @@
   {
     "Nome": "Andarilho Fashion",
     "Armamento": "Fantasia",
-    "Atributos Básicos": "Efeito de Cura +3.00%|Suas Habilidades tem 5% de chance de aumentar o Efeito de Cura em 5% por 10s. (Resf.: 15s)",
+    "Atributos Básicos": "Efeito de Cura +3.00% Suas Habilidades tem 5% de chance de aumentar o Efeito de Cura em 5% por 10s. (Resf.: 15s)",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +1%",
       "Nv. 10": "Efeito de Cura +1.50%",
@@ -192,7 +192,7 @@
   {
     "Nome": "Arenoso",
     "Armamento": "Armadura",
-    "Atributos Básicos": "DEFF +1|Muda o elemento da armadura para a Terra",
+    "Atributos Básicos": "DEFF +1 Muda o elemento da armadura para a Terra",
     "Desperto": {
       "Nv. 5": "PV Máx +3%",
       "Nv. 10": "Redução de Dano F/M +1%",
@@ -224,15 +224,15 @@
     "Armamento": "Mão Secundária",
     "Atributos Básicos": "Redução de Dano x Inimigo Médio +15.00% deFF +1",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Médio +1%",
-      "Nv. 10": "Redução de Dano x Inimigo|Médio +1.50%",
-      "Nv. 15": "Redução de Dano x Inimigo|Médio +2.50%"
+      "Nv. 5": "Redução de Dano x Inimigo Médio +1%",
+      "Nv. 10": "Redução de Dano x Inimigo Médio +1.50%",
+      "Nv. 15": "Redução de Dano x Inimigo Médio +2.50%"
     }
   },
   {
     "Nome": "Bafomé",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "PRECISÃO -10|VATQ+5.00%|O Ataque Básico causa Dano AdE de 2.5 m",
+    "Atributos Básicos": "PRECISÃO -10 VATQ+5.00% O Ataque Básico causa Dano AdE de 2.5 m",
     "Desperto": {
       "Nv. 5": "ATQF +4%",
       "Nv. 10": "O Dano AdE pode causar CRÍT. Dano CRÍT -20%",
@@ -252,7 +252,7 @@
   {
     "Nome": "Bafomé Jr.",
     "Armamento": "Capa",
-    "Atributos Básicos": "CRÍT +1|AGI +3",
+    "Atributos Básicos": "CRÍT +1 AGI +3",
     "Desperto": {
       "Nv. 5": "CRÍT +2",
       "Nv. 10": "AGI +1",
@@ -272,7 +272,7 @@
   {
     "Nome": "Barão Coruja (Ilusória)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "O ATQF tem 3% de chance dobrar|o dano do próximo ataque",
+    "Atributos Básicos": "O ATQF tem 3% de chance dobrar o dano do próximo ataque",
     "Desperto": {
       "Nv. 5": "Chance do Efeito +0.5%",
       "Nv. 10": "Chance do Efeito +1%",
@@ -292,7 +292,7 @@
   {
     "Nome": "Bebê Orc",
     "Armamento": "Capa",
-    "Atributos Básicos": "ESQUIVA +5|Resistência de Dano Neutro +15.00%",
+    "Atributos Básicos": "ESQUIVA +5 Resistência de Dano Neutro +15.00%",
     "Desperto": {
       "Nv. 5": "ESQUIVA +5",
       "Nv. 10": "Resistência de Dano Neutro +2%",
@@ -302,20 +302,20 @@
   {
     "Nome": "Bebê Selvagem",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +5|ATQM +5|Quando atacar, têm 2% de chance de Atordoar o inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +5 ATQM +5 Quando atacar, têm 2% de chance de Atordoar o inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +1%",
       "Nv. 10": "Dano F/Dano M +2%",
-      "Nv. 15": "Quando atacar, a|probabilidade de deixar os inimigos|Atordoar aumenta em 3%."
+      "Nv. 15": "Quando atacar, a probabilidade de deixar os inimigos Atordoar aumenta em 3%."
     }
   },
   {
     "Nome": "Beijo da Rosa",
     "Armamento": "boca",
-    "Atributos Básicos": "Redução de Dano x Inimigo|Pequeno +2.00%|O Ataque Básico tem 1% de chance de aumentar o Dano F em 100%",
+    "Atributos Básicos": "Redução de Dano x Inimigo Pequeno +2.00% O Ataque Básico tem 1% de chance de aumentar o Dano F em 100%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Pequeno +1%",
-      "Nv. 10": "Redução de Dano x Inimigo|Pequeno +1.50%",
+      "Nv. 5": "Redução de Dano x Inimigo Pequeno +1%",
+      "Nv. 10": "Redução de Dano x Inimigo Pequeno +1.50%",
       "Nv. 15": "PV Máx +2%"
     }
   },
@@ -324,9 +324,9 @@
     "Armamento": "Mão Secundária",
     "Atributos Básicos": "Redução de Dano F a Distância +20.00%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano Fa|Distância +2%",
-      "Nv. 10": "Redução de Dano F a|Distância +3%",
-      "Nv. 15": "Redução de Dano Fa|Distância +5%"
+      "Nv. 5": "Redução de Dano Fa Distância +2%",
+      "Nv. 10": "Redução de Dano F a Distância +3%",
+      "Nv. 15": "Redução de Dano Fa Distância +5%"
     }
   },
   {
@@ -342,7 +342,7 @@
   {
     "Nome": "Besouro-Ladrão Dourado",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Consumo de PM +10.00%|Redução de Dano M +40.00%",
+    "Atributos Básicos": "Consumo de PM +10.00% Redução de Dano M +40.00%",
     "Desperto": {
       "Nv. 5": "Redução de Dano M +5%",
       "Nv. 10": "PV Máx +6%",
@@ -352,7 +352,7 @@
   {
     "Nome": "Besouro-Ladrão Dourado (Ilusória)",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Consumo de PM +15.00%|Redução de Dano M +18.00%",
+    "Atributos Básicos": "Consumo de PM +15.00% Redução de Dano M +18.00%",
     "Desperto": {
       "Nv. 5": "Redução de Dano M +2%",
       "Nv. 10": "PV Máx +1%",
@@ -362,7 +362,7 @@
   {
     "Nome": "Besouro-Ladrão Fêmea",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "AGI +1|ESQUIVA +1|ATQF +5",
+    "Atributos Básicos": "AGI +1 ESQUIVA +1 ATQF +5",
     "Desperto": {
       "Nv. 5": "ATQF +5",
       "Nv. 10": "AGI +1",
@@ -382,7 +382,7 @@
   {
     "Nome": "Bongun",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seus ATQF tem 3% de chance de auto conjurar Golpe Fulminante Nv. 1. Resf.: 2s. Se tiver aprendido a|habilidade, o nível automático da|conjuração será o mais alto já|adquirido.",
+    "Atributos Básicos": "Seus ATQF tem 3% de chance de auto conjurar Golpe Fulminante Nv. 1. Resf.: 2s. Se tiver aprendido a habilidade, o nível automático da conjuração será o mais alto já adquirido.",
     "Desperto": {
       "Nv. 5": "Aumenta a Chance em 0.5%",
       "Nv. 10": "Aumenta a Chance em 1%.",
@@ -392,7 +392,7 @@
   {
     "Nome": "Bongun (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seus ATQF tem 3% de chance de auto conjurar Golpe Fulminante Nv. 3. Resf.: 0.8s. Se tiver aprendido|a habilidade, o nível automático da|conjuração será o mais alto já|adquirido.|Dano de habilidade +50% quando",
+    "Atributos Básicos": "Seus ATQF tem 3% de chance de auto conjurar Golpe Fulminante Nv. 3. Resf.: 0.8s. Se tiver aprendido a habilidade, o nível automático da conjuração será o mais alto já adquirido. Dano de habilidade +50% quando",
     "Desperto": {
       "Nv. 5": "Aumenta a Chance em 0.5%.",
       "Nv. 10": "Aumenta a Chance em 1%",
@@ -412,7 +412,7 @@
   {
     "Nome": "Caminhada na Chuva",
     "Armamento": "Fantasia",
-    "Atributos Básicos": "Ao receber Dano M, tem 1% de chance de ignorar o Dano. (Resf.:|10s)",
+    "Atributos Básicos": "Ao receber Dano M, tem 1% de chance de ignorar o Dano. (Resf.: 10s)",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +1%",
       "Nv. 10": "Chance do Efeito +2%",
@@ -422,7 +422,7 @@
   {
     "Nome": "Carat",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "INT +2|PM Máx +200",
+    "Atributos Básicos": "INT +2 PM Máx +200",
     "Desperto": {
       "Nv. 5": "INT +1",
       "Nv. 10": "PM Máx +100",
@@ -446,7 +446,7 @@
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +4%",
       "Nv. 10": "Dano F/Dano M +6%",
-      "Nv. 15": "Chance de auto conjurar|Chuva de Meteoros Nv.6 +5%"
+      "Nv. 15": "Chance de auto conjurar Chuva de Meteoros Nv.6 +5%"
     }
   },
   {
@@ -456,23 +456,23 @@
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +1%",
       "Nv. 10": "Dano F/Dano M +2%",
-      "Nv. 15": "Chance de auto conjurar|Chuva de Meteoros Nv.3 +2%"
+      "Nv. 15": "Chance de auto conjurar Chuva de Meteoros Nv.3 +2%"
     }
   },
   {
     "Nome": "Cavaleiro da Tempestade",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "O ATQF tem 3% de chance de Congelar o inimigo por 1s. (Resf.: 2s)|Seu ATQF tem 5% de chance de auto conjurar Nevasca Nv.1 (Resf.|Padrão: 7s)|Dano em inimigo|Congelado/Congelamento",
+    "Atributos Básicos": "O ATQF tem 3% de chance de Congelar o inimigo por 1s. (Resf.: 2s) Seu ATQF tem 5% de chance de auto conjurar Nevasca Nv.1 (Resf. Padrão: 7s) Dano em inimigo Congelado/Congelamento",
     "Desperto": {
       "Nv. 5": "Chance de Congelar +5%",
-      "Nv. 10": "Dano em inimigo|Congelado/Congelamento|Profundo +8%",
-      "Nv. 15": "Dano em inimigo|Congelado/Congelamento|Profundo +12%"
+      "Nv. 10": "Dano em inimigo Congelado/Congelamento Profundo +8%",
+      "Nv. 15": "Dano em inimigo Congelado/Congelamento Profundo +12%"
     }
   },
   {
     "Nome": "Cavaleiro do Abismo",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Chefe +15.00%|Refino +12: Dano F x Chefe +7%",
+    "Atributos Básicos": "Dano x Chefe +15.00% Refino +12: Dano F x Chefe +7%",
     "Desperto": {
       "Nv. 5": "Dano x Chefe +2%",
       "Nv. 10": "Dano x Chefe +3%",
@@ -482,7 +482,7 @@
   {
     "Nome": "Cavalo-Marinho",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Resistência de Água +10.00%|PV Máx +3.00%|Evita entrar no estado de Congelar.",
+    "Atributos Básicos": "Resistência de Água +10.00% PV Máx +3.00% Evita entrar no estado de Congelar.",
     "Desperto": {
       "Nv. 5": "Resistência de Água +2%",
       "Nv. 10": "PV Máx +2%",
@@ -492,7 +492,7 @@
   {
     "Nome": "Chefe Goblin",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano contra goblins aumentado|em 25%.|Dano x Monstros +8%",
+    "Atributos Básicos": "Dano contra goblins aumentado em 25%. Dano x Monstros +8%",
     "Desperto": {
       "Nv. 5": "Dano x Monstros +2%",
       "Nv. 10": "Dano x Monstros +4%",
@@ -506,13 +506,13 @@
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +25",
       "Nv. 10": "ATQF/ATQM +50",
-      "Nv. 15": "Chance de auto conjurar|Curar Nv. 5 +3%"
+      "Nv. 15": "Chance de auto conjurar Curar Nv. 5 +3%"
     }
   },
   {
     "Nome": "Choco",
     "Armamento": "Capa",
-    "Atributos Básicos": "ESQUIVA+5|PV Máx +3.00%|Quando você recebe dano, tem 2% de chance de evitar esse dano. |Sem Resf.",
+    "Atributos Básicos": "ESQUIVA+5 PV Máx +3.00% Quando você recebe dano, tem 2% de chance de evitar esse dano.  Sem Resf.",
     "Desperto": {
       "Nv. 5": "ESQUIVA +3",
       "Nv. 10": "PV Máx +1.50%",
@@ -522,7 +522,7 @@
   {
     "Nome": "Chonchon",
     "Armamento": "Calçado",
-    "Atributos Básicos": "AGI +1|ESQUIVA +2",
+    "Atributos Básicos": "AGI +1 ESQUIVA +2",
     "Desperto": {
       "Nv. 5": "ESQUIVA +2",
       "Nv. 10": "PV Máx +0.50%",
@@ -592,7 +592,7 @@
   {
     "Nome": "Cornutus",
     "Armamento": "Armadura",
-    "Atributos Básicos": "PV Máx +4.00%|Armadura Indestrutível",
+    "Atributos Básicos": "PV Máx +4.00% Armadura Indestrutível",
     "Desperto": {
       "Nv. 5": "DEFF/DEFM +2%",
       "Nv. 10": "PV Máx +2%",
@@ -602,7 +602,7 @@
   {
     "Nome": "Creamy",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Х|Carta: Creamy||",
+    "Atributos Básicos": "Teletransporte Nv. 1 é desbloqueado",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +0.40%",
       "Nv. 10": "Dano F/Dano M +0.50%",
@@ -624,15 +624,15 @@
     "Armamento": "Armadura",
     "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de causar Medo no inimigo por 1s. (Resf.: 2s)",
     "Desperto": {
-      "Nv. 5": "Chance de causar Medo no|inimigo +0.5%",
-      "Nv. 10": "Chance de causar Medo no|inimigo +1%",
-      "Nv. 15": "Chance de causar Medo no|inimigo 1.5%"
+      "Nv. 5": "Chance de causar Medo no inimigo +0.5%",
+      "Nv. 10": "Chance de causar Medo no inimigo +1%",
+      "Nv. 15": "Chance de causar Medo no inimigo 1.5%"
     }
   },
   {
     "Nome": "Cruiser",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano CRÍT +10.00%|CRÍT x Brutos +7",
+    "Atributos Básicos": "Dano CRÍT +10.00% CRÍT x Brutos +7",
     "Desperto": {
       "Nv. 5": "CRÍT +5",
       "Nv. 10": "Dano CRÍT +2%",
@@ -642,7 +642,7 @@
   {
     "Nome": "Cäibra",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "ATQF +15|ATQM +15",
+    "Atributos Básicos": "ATQF +15 ATQM +15",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +5",
       "Nv. 10": "ATQF/ATQM +10",
@@ -654,15 +654,15 @@
     "Armamento": "Mão Dominante",
     "Atributos Básicos": "Dano x Humanoide, Bruto, Planta e Inseto +7%",
     "Desperto": {
-      "Nv. 5": "Dano x Humanoide, Bruto,|Planta e Inseto +0.5%",
-      "Nv. 10": "Dano x Humanoide, Bruto,|Planta e Inseto +1%",
-      "Nv. 15": "Dano x Humanoide, Bruto,|Planta e Inseto +1.5%"
+      "Nv. 5": "Dano x Humanoide, Bruto, Planta e Inseto +0.5%",
+      "Nv. 10": "Dano x Humanoide, Bruto, Planta e Inseto +1%",
+      "Nv. 15": "Dano x Humanoide, Bruto, Planta e Inseto +1.5%"
     }
   },
   {
     "Nome": "Deviling",
     "Armamento": "Capa",
-    "Atributos Básicos": "Resistência de Dano Neutro +30.00%|Você recebe dano de outros atributos +15%.",
+    "Atributos Básicos": "Resistência de Dano Neutro +30.00% Você recebe dano de outros atributos +15%.",
     "Desperto": {
       "Nv. 5": "Resistência de Dano Neutro +5%",
       "Nv. 10": "Você recebe -15% menos dano de outros atributos.",
@@ -682,7 +682,7 @@
   {
     "Nome": "Diabrete da Árvore de Sakura",
     "Armamento": "Armadura",
-    "Atributos Básicos": "AGI +2|SOR +2 deFF +20",
+    "Atributos Básicos": "AGI +2 SOR +2 deFF +20",
     "Desperto": {
       "Nv. 5": "AGI +2",
       "Nv. 10": "SOR +2",
@@ -692,7 +692,7 @@
   {
     "Nome": "Diretor",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "х|Carta: Diretor",
+    "Atributos Básicos": "INT +5 Resf. Global -3.00%",
     "Desperto": {
       "Nv. 5": "INT +1",
       "Nv. 10": "INT +2",
@@ -724,15 +724,15 @@
     "Armamento": "Mão Dominante",
     "Atributos Básicos": "VATQ +10.00%",
     "Desperto": {
-      "Nv. 5": "CRÍT +10, AGI +7|AGI +5",
-      "Nv. 10": "Dano CRÍT +6%|CRIT +5",
-      "Nv. 15": "Dano CRÍT +10%|Dano CRÍT +12.00%"
+      "Nv. 5": "CRÍT +10, AGI +7 AGI +5",
+      "Nv. 10": "Dano CRÍT +6% CRIT +5",
+      "Nv. 15": "Dano CRÍT +10% Dano CRÍT +12.00%"
     }
   },
   {
     "Nome": "Doppelganger (Ilusória)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "VATQ+2.00%|AGI +2|CRÍT +2|Dano CRÍT +6.00%",
+    "Atributos Básicos": "VATQ+2.00% AGI +2 CRÍT +2 Dano CRÍT +6.00%",
     "Desperto": {
       "Nv. 5": "CRÍT +2, AGI +1",
       "Nv. 10": "VATQ +2%",
@@ -752,7 +752,7 @@
   {
     "Nome": "Drake",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Ignora o Tamanho e causa 100% de dano.|Dano x Monstros +12%",
+    "Atributos Básicos": "Ignora o Tamanho e causa 100% de dano. Dano x Monstros +12%",
     "Desperto": {
       "Nv. 5": "Dano x Monstros +4%",
       "Nv. 10": "Dano x Monstros +6%",
@@ -762,7 +762,7 @@
   {
     "Nome": "Drake (Ilusória)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Seu ataque tem 5% de chance de ignorar o tamanho e causar 100%|do dano por 1s (Resf.: 1s)|Dano x Monstros +4%",
+    "Atributos Básicos": "Seu ataque tem 5% de chance de ignorar o tamanho e causar 100% do dano por 1s (Resf.: 1s) Dano x Monstros +4%",
     "Desperto": {
       "Nv. 5": "Ao adicionar Manejo Perfeito aumenta a chance em 2%.",
       "Nv. 10": "Dano x Monstros +1%",
@@ -772,7 +772,7 @@
   {
     "Nome": "Drops",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "DES +1|PRECISÃO +3|Ataque +100 contra Guerreiro de Bravura.",
+    "Atributos Básicos": "DES +1 PRECISÃO +3 Ataque +100 contra Guerreiro de Bravura.",
     "Desperto": {
       "Nv. 5": "DES +1",
       "Nv. 10": "PRECISÃO +2",
@@ -782,7 +782,7 @@
   {
     "Nome": "Druida Maligno",
     "Armamento": "Armadura",
-    "Atributos Básicos": "DEFF +1|INT +2|Muda o elemento da armadura para Morto-Vivo",
+    "Atributos Básicos": "DEFF +1 INT +2 Muda o elemento da armadura para Morto-Vivo",
     "Desperto": {
       "Nv. 5": "PV Máx +3%",
       "Nv. 10": "Redução de Dano F/M +1%",
@@ -792,7 +792,7 @@
   {
     "Nome": "Drácula",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQM +100|Dano M +15.00%|A conjuração não será interrompida pelo dano.",
+    "Atributos Básicos": "ATQM +100 Dano M +15.00% A conjuração não será interrompida pelo dano.",
     "Desperto": {
       "Nv. 5": "ATQM +100",
       "Nv. 10": "Dano M +6%",
@@ -802,7 +802,7 @@
   {
     "Nome": "Drácula (Ilusória)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "A conjuração não será interrompida|pelo dano.",
+    "Atributos Básicos": "A conjuração não será interrompida pelo dano.",
     "Desperto": {
       "Nv. 5": "Dano M +1%",
       "Nv. 10": "Dano M +2%",
@@ -812,7 +812,7 @@
   {
     "Nome": "Duende Sakura",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "FOR +2|ATQF +20",
+    "Atributos Básicos": "FOR +2 ATQF +20",
     "Desperto": {
       "Nv. 5": "ATQF +10",
       "Nv. 10": "FOR +2",
@@ -822,7 +822,7 @@
   {
     "Nome": "Duende da Árvore Sakura",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "INT +2|ATQM +20",
+    "Atributos Básicos": "INT +2 ATQM +20",
     "Desperto": {
       "Nv. 5": "ATQM +10",
       "Nv. 10": "INT +2",
@@ -842,17 +842,17 @@
   {
     "Nome": "Eclipse",
     "Armamento": "Capa",
-    "Atributos Básicos": "VIT +2|Refino +10: PV Máx. +3%.",
+    "Atributos Básicos": "VIT +2 Refino +10: PV Máx. +3%.",
     "Desperto": {
       "Nv. 5": "Resistência de Dano Neutro +5%",
-      "Nv. 10": "Você recebe -15% menos|dano de outros atributos.",
-      "Nv. 15": "Refino +10: PV Máx. é|aumentado em +2%."
+      "Nv. 10": "Você recebe -15% menos dano de outros atributos.",
+      "Nv. 15": "Refino +10: PV Máx. é aumentado em +2%."
     }
   },
   {
     "Nome": "Eddga",
     "Armamento": "Calçado",
-    "Atributos Básicos": "PV Máx -5.00%|Suportar infinito (não será parado ou repelido ao ser empurrado).",
+    "Atributos Básicos": "PV Máx -5.00% Suportar infinito (não será parado ou repelido ao ser empurrado).",
     "Desperto": {
       "Nv. 5": "PV Máx +5%",
       "Nv. 10": "PV Máx +6%",
@@ -862,7 +862,7 @@
   {
     "Nome": "Eggy Demoníaco",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Ao ser atacado, recupera 5 PM (Resf.: 0.5s)|Quando equipado com a Carta: Picky Angelical: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s) (Não acumula com múltiplos equipamentos)",
+    "Atributos Básicos": "Ao ser atacado, recupera 5 PM (Resf.: 0.5s) Quando equipado com a Carta: Picky Angelical: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s) (Não acumula com múltiplos equipamentos)",
     "Desperto": {
       "Nv. 5": "Ao receber dano, recupere 7 de PM. (Resf.: 0.5s)",
       "Nv. 10": "ATQF/ATQM +50",
@@ -872,7 +872,7 @@
   {
     "Nome": "Eggy de Colher",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Bônus de Dano JxA +10|Bônus de Dano JxJ +10",
+    "Atributos Básicos": "Bônus de Dano JxA +10 Bônus de Dano JxJ +10",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo de Fogo +2%",
       "Nv. 10": "Dano x Inimigo de Fogo +3%",
@@ -882,7 +882,7 @@
   {
     "Nome": "Eggy de Garfo",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Redução de Dano JxA +10|Redução de Dano Jx] +10",
+    "Atributos Básicos": "Redução de Dano JxA +10 Redução de Dano Jx] +10",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo de Fogo +2%",
       "Nv. 10": "Dano x Inimigo de Fogo +3%",
@@ -892,7 +892,7 @@
   {
     "Nome": "Eggyra",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Recuperação de PM +8.00%|PV Máx +2.00%",
+    "Atributos Básicos": "Recuperação de PM +8.00% PV Máx +2.00%",
     "Desperto": {
       "Nv. 5": "Recuperação de PM +1%",
       "Nv. 10": "Recuperação de PM +3%",
@@ -912,7 +912,7 @@
   {
     "Nome": "Encouraçado",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Matar um monstro Peixe restaura 5|PM. Sem Resf.",
+    "Atributos Básicos": "Matar um monstro Peixe restaura 5 PM. Sem Resf.",
     "Desperto": {
       "Nv. 5": "Dano x Peixe +2%",
       "Nv. 10": "Dano x Peixe +3%",
@@ -932,7 +932,7 @@
   {
     "Nome": "Escorpião (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Planta +3.00% derrotar 1 Inimigo Planta, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Planta +3.00% derrotar 1 Inimigo Planta, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Planta +0.50%",
       "Nv. 10": "Dano x Planta +1%",
@@ -972,7 +972,7 @@
   {
     "Nome": "Espírito Melancólico Sakura",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "FOR +3|INT +3|Dano F +1.00%|Dano M +1.00%",
+    "Atributos Básicos": "FOR +3 INT +3 Dano F +1.00% Dano M +1.00%",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +0.50%",
       "Nv. 10": "Dano F/Dano M +1%",
@@ -982,7 +982,7 @@
   {
     "Nome": "Espírito da Flor da Alegria",
     "Armamento": "Armadura",
-    "Atributos Básicos": "VIT +2|SOR +2 deFF +20",
+    "Atributos Básicos": "VIT +2 SOR +2 deFF +20",
     "Desperto": {
       "Nv. 5": "VIT +2",
       "Nv. 10": "SOR +2",
@@ -992,7 +992,7 @@
   {
     "Nome": "Esqueleto",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +10|ATQM +10|Quando atacar, têm 2% de chance de Atordoar o inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +10 ATQM +10 Quando atacar, têm 2% de chance de Atordoar o inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +5",
       "Nv. 10": "ATQF/ATQM +10",
@@ -1012,7 +1012,7 @@
   {
     "Nome": "Esqueleto Operário",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +20|ATQM +20|Dano x Inimigo Médio +18.00%",
+    "Atributos Básicos": "ATQF +20 ATQM +20 Dano x Inimigo Médio +18.00%",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo Médio +2%",
       "Nv. 10": "Dano x Inimigo Médio +3%",
@@ -1032,7 +1032,7 @@
   {
     "Nome": "Esqueleto Pirata",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQF +5|CRÍT +2",
+    "Atributos Básicos": "ATQF +5 CRÍT +2",
     "Desperto": {
       "Nv. 5": "CRÍT +2",
       "Nv. 10": "ATQF +0.50%",
@@ -1042,7 +1042,7 @@
   {
     "Nome": "Esqueleto Pirata (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQF +10|CRÍT +4|ATQF +2.00%",
+    "Atributos Básicos": "ATQF +10 CRÍT +4 ATQF +2.00%",
     "Desperto": {
       "Nv. 5": "CRÍT +4",
       "Nv. 10": "ATQF +1%",
@@ -1054,9 +1054,9 @@
     "Armamento": "Armadura",
     "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de causar Sono no inimigo por 1s. (Resf.: 2s)",
     "Desperto": {
-      "Nv. 5": "Chance de causar Sono no|inimigo +0.5%",
-      "Nv. 10": "Chance de causar Sono no|inimigo +1%",
-      "Nv. 15": "Chance de causar Sono no|inimigo +1.5%"
+      "Nv. 5": "Chance de causar Sono no inimigo +0.5%",
+      "Nv. 10": "Chance de causar Sono no inimigo +1%",
+      "Nv. 15": "Chance de causar Sono no inimigo +1.5%"
     }
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "Nome": "Fabre",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "VIT +1|PV Máx +100",
+    "Atributos Básicos": "VIT +1 PV Máx +100",
     "Desperto": {
       "Nv. 5": "PV Máx +100",
       "Nv. 10": "VIT +2",
@@ -1092,17 +1092,17 @@
   {
     "Nome": "Familiar",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +5|ATQM +5|Quando atacar, tem 5% de chance de causar Cegar ao inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +5 ATQM +5 Quando atacar, tem 5% de chance de causar Cegar ao inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +5",
       "Nv. 10": "ATQF/ATQM +10",
-      "Nv. 15": "Quando atacar, aumenta a|chance de causar Cegar ao inimigo em 5%."
+      "Nv. 15": "Quando atacar, aumenta a chance de causar Cegar ao inimigo em 5%."
     }
   },
   {
     "Nome": "Faraó",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Consumo de PM -50.00%|Dano M +8.00%",
+    "Atributos Básicos": "Consumo de PM -50.00% Dano M +8.00%",
     "Desperto": {
       "Nv. 5": "TC Fixo -8%",
       "Nv. 10": "Dano M +6%",
@@ -1112,7 +1112,7 @@
   {
     "Nome": "Faraó (Ilusória)",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Consumo de PM -20.00%|Dano M +2.00%",
+    "Atributos Básicos": "Consumo de PM -20.00% Dano M +2.00%",
     "Desperto": {
       "Nv. 5": "Dano M +0.50%",
       "Nv. 10": "Dano M +1%",
@@ -1122,7 +1122,7 @@
   {
     "Nome": "Fen",
     "Armamento": "Acessório",
-    "Atributos Básicos": "TC Variável +25.00%|A conjuração não será interrompida pelo dano.",
+    "Atributos Básicos": "TC Variável +25.00% A conjuração não será interrompida pelo dano.",
     "Desperto": {
       "Nv. 5": "TC Variável -4%",
       "Nv. 10": "TC Variável -6%",
@@ -1132,7 +1132,7 @@
   {
     "Nome": "Fendark",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano F Corpo a Corpo +8.00%|PRECISÃO +5",
+    "Atributos Básicos": "Dano F Corpo a Corpo +8.00% PRECISÃO +5",
     "Desperto": {
       "Nv. 5": "PV Máx +1%",
       "Nv. 10": "Dano F Corpo a Corpo +1.50%",
@@ -1142,7 +1142,7 @@
   {
     "Nome": "Filhote de Hatii",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano de Habilidade Água +8.00%|O ATQF tem 3% de chance de Auto|Conjurar Rajada Congelante Nv.3. (Resf.: 2s)",
+    "Atributos Básicos": "Dano de Habilidade Água +8.00% O ATQF tem 3% de chance de Auto Conjurar Rajada Congelante Nv.3. (Resf.: 2s)",
     "Desperto": {
       "Nv. 5": "Dano de Habilidade Água +4%",
       "Nv. 10": "Aumenta a Chance em 3%",
@@ -1162,7 +1162,7 @@
   {
     "Nome": "Flor do Luar",
     "Armamento": "Calçado",
-    "Atributos Básicos": "VMOV +20% (Não acumula com|múltiplos equipamentos).|PV Máx +5.00%",
+    "Atributos Básicos": "VMOV +20% (Não acumula com múltiplos equipamentos). PV Máx +5.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +4%",
       "Nv. 10": "PV Máx +6%",
@@ -1182,7 +1182,7 @@
   {
     "Nome": "Flora (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Derrotar 1 Inimigo Peixe, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Derrotar 1 Inimigo Peixe, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Peixe +0.50%",
       "Nv. 10": "Dano x Peixe +1%",
@@ -1202,27 +1202,27 @@
   {
     "Nome": "Freeoni",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Aumenta o Dano F em 0.05% por|cada ponto de precisão, até 20%|(se inserido com várias cartas, o|valor de aumento por ponto de precisão será aumentado, sem|alterar o limite máximo).",
+    "Atributos Básicos": "Aumenta o Dano F em 0.05% por cada ponto de precisão, até 20% (se inserido com várias cartas, o valor de aumento por ponto de precisão será aumentado, sem alterar o limite máximo).",
     "Desperto": {
       "Nv. 5": "PRECISÃO +100",
-      "Nv. 10": "A precisão agora pode aumentar o limite do Dano F em|mais 6%.",
-      "Nv. 15": "A precisão agora pode aumentar o limite do Dano F em|mais 10%."
+      "Nv. 10": "A precisão agora pode aumentar o limite do Dano F em mais 6%.",
+      "Nv. 15": "A precisão agora pode aumentar o limite do Dano F em mais 10%."
     }
   },
   {
     "Nome": "Freeoni (Ilusória)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Aumenta o Dano F em 0.05% por|cada ponto de precisão, até 10%|(se inserido com várias cartas, o|valor de aumento por ponto de precisão será aumentado, sem|alterar o limite máximo).|Ignora Bloquear e ESQUIVA do",
+    "Atributos Básicos": "Aumenta o Dano F em 0.05% por cada ponto de precisão, até 10% (se inserido com várias cartas, o valor de aumento por ponto de precisão será aumentado, sem alterar o limite máximo). Ignora Bloquear e ESQUIVA do",
     "Desperto": {
       "Nv. 5": "PRECISÃO +50",
-      "Nv. 10": "A precisão agora pode aumentar o limite do Dano F em|mais 1%.",
-      "Nv. 15": "A precisão agora pode aumentar o limite do Dano F em|mais 2%."
+      "Nv. 10": "A precisão agora pode aumentar o limite do Dano F em mais 1%.",
+      "Nv. 15": "A precisão agora pode aumentar o limite do Dano F em mais 2%."
     }
   },
   {
     "Nome": "Frilldora",
     "Armamento": "Capa",
-    "Atributos Básicos": "INT +3|TC Variável -3.00%",
+    "Atributos Básicos": "INT +3 TC Variável -3.00%",
     "Desperto": {
       "Nv. 5": "INT +2",
       "Nv. 10": "TC Variável -0.50%",
@@ -1242,17 +1242,17 @@
   {
     "Nome": "Furador",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Dragão +5.00%|Matar um monstro Dragão restaura|5 PM. Sem Resf.",
+    "Atributos Básicos": "Dano x Dragão +5.00% Matar um monstro Dragão restaura 5 PM. Sem Resf.",
     "Desperto": {
       "Nv. 5": "Dano x Dragão +2%",
-      "Nv. 10": "Matar um monstro Dragão|restaura mais 3 PM.",
+      "Nv. 10": "Matar um monstro Dragão restaura mais 3 PM.",
       "Nv. 15": "Dano x Dragão +3%"
     }
   },
   {
     "Nome": "Garota da Sobremesa",
     "Armamento": "Fantasia",
-    "Atributos Básicos": "PV Máx +3.00%|TC Fixo -3.00%",
+    "Atributos Básicos": "PV Máx +3.00% TC Fixo -3.00%",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +1%",
       "Nv. 10": "Resf. Global -1%",
@@ -1262,7 +1262,7 @@
   {
     "Nome": "Gato de Nove Caudas",
     "Armamento": "Calçado",
-    "Atributos Básicos": "DEFM +3|PV Máx +4.00%|Quando você sofre ATQM, tem 5% de chance de refletir esse dano.|Sem Resf.",
+    "Atributos Básicos": "DEFM +3 PV Máx +4.00% Quando você sofre ATQM, tem 5% de chance de refletir esse dano. Sem Resf.",
     "Desperto": {
       "Nv. 5": "PV Máx +2%",
       "Nv. 10": "Redução de Dano M +2%",
@@ -1282,7 +1282,7 @@
   {
     "Nome": "Giearth",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Resistência de Dano de Terra +10.00%|Evita entrar no estado de Medo.",
+    "Atributos Básicos": "Resistência de Dano de Terra +10.00% Evita entrar no estado de Medo.",
     "Desperto": {
       "Nv. 5": "Resistência de Dano de Terra +5%",
       "Nv. 10": "Redução de Dano F/M +1.50%",
@@ -1292,7 +1292,7 @@
   {
     "Nome": "Giro-Goblin",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "х|Carta: Giro-Goblin",
+    "Atributos Básicos": "Dano CRÍT +10.00% CRÍT x Peixe +7",
     "Desperto": {
       "Nv. 5": "CRIT +5",
       "Nv. 10": "Dano CRÍT +2%",
@@ -1312,7 +1312,7 @@
   {
     "Nome": "Goblin (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Derrotar 1 Inimigo Bruto, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Derrotar 1 Inimigo Bruto, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Bruto +0.50%",
       "Nv. 10": "Dano x Bruto +1%",
@@ -1322,7 +1322,7 @@
   {
     "Nome": "Goblin Arqueiro",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano CRÍT +10.00%|CRÍT x Mortos-vivos +7",
+    "Atributos Básicos": "Dano CRÍT +10.00% CRÍT x Mortos-vivos +7",
     "Desperto": {
       "Nv. 5": "CRÍT +5",
       "Nv. 10": "Dano CRÍT +2%",
@@ -1332,7 +1332,7 @@
   {
     "Nome": "Goblin Arqueiro (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Morto-Vivo +3.00% derrotar 1 Inimigo Morto-Vivo,|recebe 1 acúmulo de [Amplificação|da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3|acúmulos. Não acúmula com várias|ou outras cartas.",
+    "Atributos Básicos": "Dano x Morto-Vivo +3.00% derrotar 1 Inimigo Morto-Vivo, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Morto-Vivo +0.50%",
       "Nv. 10": "Dano x Morto-Vivo +1%",
@@ -1342,7 +1342,7 @@
   {
     "Nome": "Goblin a Vapor",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "х|Carta: Goblin a Vapor",
+    "Atributos Básicos": "Dano CRÍT +10.00% CRÍT x Amorfos +7",
     "Desperto": {
       "Nv. 5": "CRIT +5",
       "Nv. 10": "Dano CRÍT +2%",
@@ -1352,7 +1352,7 @@
   {
     "Nome": "Golem",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +25|ATQM +25|A Arma é indestrutível",
+    "Atributos Básicos": "ATQF +25 ATQM +25 A Arma é indestrutível",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +25",
       "Nv. 10": "ATQF/ATQM +50",
@@ -1362,7 +1362,7 @@
   {
     "Nome": "Grifo",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Impacto de Tyr Nv. 5.|Resf.: 0.3s.",
+    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Impacto de Tyr Nv. 5. Resf.: 0.3s.",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +2%",
       "Nv. 10": "Dano F/Dano M +4%",
@@ -1372,7 +1372,7 @@
   {
     "Nome": "Grizzly Pêlo de Aço",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "VIT +5|Quando seu PV cai abaixo de 30%, reduz o dano recebido, exceto os efeitos de estado em 10%. Sem Resf.",
+    "Atributos Básicos": "VIT +5 Quando seu PV cai abaixo de 30%, reduz o dano recebido, exceto os efeitos de estado em 10%. Sem Resf.",
     "Desperto": {
       "Nv. 5": "VIT +3",
       "Nv. 10": "Quando seu PV cai abaixo de 30%, reduz o dano recebido exceto os efeitos de estado em 2%.",
@@ -1382,7 +1382,7 @@
   {
     "Nome": "Grizzly Pêlo de Aço (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Inimigo Grande +3.00% derrotar 1 Inimigo Grande, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Inimigo Grande +3.00% derrotar 1 Inimigo Grande, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo Grande +0.50%",
       "Nv. 10": "Dano x Inimigo Grande +1%",
@@ -1412,7 +1412,7 @@
   {
     "Nome": "Gárgula",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Disparo Violento (Gárgula) fica|disponível",
+    "Atributos Básicos": "Disparo Violento (Gárgula) fica disponível",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +0.40%",
       "Nv. 10": "Dano F/Dano M +0.50%",
@@ -1422,7 +1422,7 @@
   {
     "Nome": "Hatii",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao sofrer dano, tem 10% de chance de Congelar e VMOV -40% do|inimigo por 3s (Resf. Padrão: 2s)",
+    "Atributos Básicos": "Ao sofrer dano, tem 10% de chance de Congelar e VMOV -40% do inimigo por 3s (Resf. Padrão: 2s)",
     "Desperto": {
       "Nv. 5": "PV Máx +4%",
       "Nv. 10": "Chance de Congelar +2%",
@@ -1452,7 +1452,7 @@
   {
     "Nome": "Hidra (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Humanoide +3.00% derrotar 1 Inimigo Humanoide,|recebe 1 acúmulo de [Amplificação|da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3|acúmulos. Não acúmula com várias|ou outras cartas.",
+    "Atributos Básicos": "Dano x Humanoide +3.00% derrotar 1 Inimigo Humanoide, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Humanoide +0.50%",
       "Nv. 10": "Dano x Humanoide +1%",
@@ -1482,7 +1482,7 @@
   {
     "Nome": "Ilusão das Trevas",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "х|Carta: Ilusão das Trevas",
+    "Atributos Básicos": "TC Variável -10.00% TC Fixo -10.00% PV Máx -5.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +5%",
       "Nv. 10": "TC Variável -5%",
@@ -1542,7 +1542,7 @@
   {
     "Nome": "Kobold",
     "Armamento": "Acessório",
-    "Atributos Básicos": "CRÍT +4|FOR +2",
+    "Atributos Básicos": "CRÍT +4 FOR +2",
     "Desperto": {
       "Nv. 5": "Dano F +0.40%",
       "Nv. 10": "Dano F +0.50%",
@@ -1552,7 +1552,7 @@
   {
     "Nome": "Kobold (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "FOR +4|CRÍT +6|Dano F +2.00%",
+    "Atributos Básicos": "FOR +4 CRÍT +6 Dano F +2.00%",
     "Desperto": {
       "Nv. 5": "Dano F +0.80%",
       "Nv. 10": "Dano F +1%",
@@ -1562,7 +1562,7 @@
   {
     "Nome": "Kobold Arqueiro",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "х|Carta: Kobold (Arqueiro)",
+    "Atributos Básicos": "Dano CRÍT +10% CRÍT x Planta +7",
     "Desperto": {
       "Nv. 5": "CRÍT +5",
       "Nv. 10": "Dano CRÍT +2%",
@@ -1582,7 +1582,7 @@
   {
     "Nome": "Leib Olmai",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "VIT +2|Resistência de Dano de Fogo +10.00%",
+    "Atributos Básicos": "VIT +2 Resistência de Dano de Fogo +10.00%",
     "Desperto": {
       "Nv. 5": "VIT +2",
       "Nv. 10": "Resistência de Dano de Fogo +2%",
@@ -1592,7 +1592,7 @@
   {
     "Nome": "Libélula",
     "Armamento": "Capa",
-    "Atributos Básicos": "AGI +2|PV Máx +3.00%|Refino +10: AGI +2",
+    "Atributos Básicos": "AGI +2 PV Máx +3.00% Refino +10: AGI +2",
     "Desperto": {
       "Nv. 5": "PV Máx +3%",
       "Nv. 10": "AGI +2",
@@ -1602,7 +1602,7 @@
   {
     "Nome": "Lobo",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +15|CRÍT +1",
+    "Atributos Básicos": "ATQF +15 CRÍT +1",
     "Desperto": {
       "Nv. 5": "CRÍT +4",
       "Nv. 10": "ATQF +30",
@@ -1612,7 +1612,7 @@
   {
     "Nome": "Lobo Errante",
     "Armamento": "Capa",
-    "Atributos Básicos": "FOR +3|Refino +12: Dano F +3%",
+    "Atributos Básicos": "FOR +3 Refino +12: Dano F +3%",
     "Desperto": {
       "Nv. 5": "FOR +3",
       "Nv. 10": "Dano F +1%",
@@ -1622,7 +1622,7 @@
   {
     "Nome": "Louva-a-Deus",
     "Armamento": "Acessório",
-    "Atributos Básicos": "FOR +2|ATQF +1.00%",
+    "Atributos Básicos": "FOR +2 ATQF +1.00%",
     "Desperto": {
       "Nv. 5": "FOR +1",
       "Nv. 10": "ATQF +0.50%",
@@ -1632,7 +1632,7 @@
   {
     "Nome": "Louva-a-Deus (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "FOR +4|ATQF +2.00%|Dano F +2.00%",
+    "Atributos Básicos": "FOR +4 ATQF +2.00% Dano F +2.00%",
     "Desperto": {
       "Nv. 5": "FOR +4",
       "Nv. 10": "Dano F +1%",
@@ -1642,7 +1642,7 @@
   {
     "Nome": "Louva-a-Deus Assassino",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Sangrar o inimigo por 10s. (Resf.:|2s)",
+    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Sangrar o inimigo por 10s. (Resf.: 2s)",
     "Desperto": {
       "Nv. 5": "Chance de Sangrar o inimigo +0.5%",
       "Nv. 10": "Chance de Sangrar o inimigo +1%",
@@ -1652,7 +1652,7 @@
   {
     "Nome": "Louva-a-Deus Ágil",
     "Armamento": "Acessório",
-    "Atributos Básicos": "AGI +1|Dano F +1.00%",
+    "Atributos Básicos": "AGI +1 Dano F +1.00%",
     "Desperto": {
       "Nv. 5": "Dano F +0.40%",
       "Nv. 10": "Dano F +0.60%",
@@ -1662,7 +1662,7 @@
   {
     "Nome": "Louva-a-Deus Ágil (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "х|Carta Éter: Louva-a-Deus Ágil",
+    "Atributos Básicos": "AGI +3 Dano F +2.00% VATQ +2.00%",
     "Desperto": {
       "Nv. 5": "Dano F +1%",
       "Nv. 10": "VATQ +1%",
@@ -1672,7 +1672,7 @@
   {
     "Nome": "Lunático",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "SOR +1|CRÍT +1|ESQUIVA +1",
+    "Atributos Básicos": "SOR +1 CRÍT +1 ESQUIVA +1",
     "Desperto": {
       "Nv. 5": "ATQF +1%",
       "Nv. 10": "CRÍT +2",
@@ -1682,7 +1682,7 @@
   {
     "Nome": "Lunático (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Inimigo Pequeno +3.00% derrotar 1 Inimigo Pequeno, recebe 1 acúmulo de [Amplificação da|Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não|acúmula com várias ou outras|cartas.",
+    "Atributos Básicos": "Dano x Inimigo Pequeno +3.00% derrotar 1 Inimigo Pequeno, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo Pequeno +0.50%",
       "Nv. 10": "Dano x Inimigo Pequeno +1%",
@@ -1692,7 +1692,7 @@
   {
     "Nome": "Líder Kobold",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Kobolds +20%|Dano x Monstros +8%",
+    "Atributos Básicos": "Dano x Kobolds +20% Dano x Monstros +8%",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +2%",
       "Nv. 10": "Dano F/Dano M +4%",
@@ -1702,7 +1702,7 @@
   {
     "Nome": "Magnólia",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +10|ATQM +10|Seu ataque tem 5% de chance de Amaldiçoar o inimigo",
+    "Atributos Básicos": "ATQF +10 ATQM +10 Seu ataque tem 5% de chance de Amaldiçoar o inimigo",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +5",
       "Nv. 10": "ATQF/ATQM +10",
@@ -1712,7 +1712,7 @@
   {
     "Nome": "Maior General",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQF +10|ATQM +10",
+    "Atributos Básicos": "ATQF +10 ATQM +10",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +0.50%",
       "Nv. 10": "ATQF/ATQM +1%",
@@ -1722,7 +1722,7 @@
   {
     "Nome": "Maior General (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQF +20|ATQM +20|ATQF/ATQM +1.00%",
+    "Atributos Básicos": "ATQF +20 ATQM +20 ATQF/ATQM +1.00%",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +1%",
       "Nv. 10": "ATQF/ATQM +2%",
@@ -1732,10 +1732,10 @@
   {
     "Nome": "Majorous",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Atordoar o inimigo por 1s. (Resf.:|2s)",
+    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Atordoar o inimigo por 1s. (Resf.: 2s)",
     "Desperto": {
       "Nv. 5": "Chance de Atordoar o inimigo +0.5%",
-      "Nv. 10": "Chance de Atordoar o|inimigo +1%",
+      "Nv. 10": "Chance de Atordoar o inimigo +1%",
       "Nv. 15": "Chance de Atordoar o inimigo +1.5%"
     }
   },
@@ -1762,7 +1762,7 @@
   {
     "Nome": "Marduk",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "INT +3|Evita entrar no estado de Silêncio.",
+    "Atributos Básicos": "INT +3 Evita entrar no estado de Silêncio.",
     "Desperto": {
       "Nv. 5": "INT +3",
       "Nv. 10": "Redução de Dano F/M +1.50%",
@@ -1782,11 +1782,11 @@
   {
     "Nome": "Marina",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +15|ATQM +15|Quando atacar, tem 5% de chance de Congelar o inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +15 ATQM +15 Quando atacar, tem 5% de chance de Congelar o inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +10",
       "Nv. 10": "ATQF/ATQM +15",
-      "Nv. 15": "Quando atacar, aumenta a|chance de Congelar o inimigo em|5%."
+      "Nv. 15": "Quando atacar, aumenta a chance de Congelar o inimigo em 5%."
     }
   },
   {
@@ -1822,7 +1822,7 @@
   {
     "Nome": "Marionete Bafomé I",
     "Armamento": "Fantasia",
-    "Atributos Básicos": "Bônus de Dano JxJ +20|Redução de Dano JxJ +20",
+    "Atributos Básicos": "Bônus de Dano JxJ +20 Redução de Dano JxJ +20",
     "Desperto": {
       "Nv. 5": "Bônus de Dano JxJ +10",
       "Nv. 10": "Bônus de Dano JxJ +15",
@@ -1832,7 +1832,7 @@
   {
     "Nome": "Marionete Bafomé II",
     "Armamento": "Fantasia",
-    "Atributos Básicos": "Bônus de Dano JxJ +50|Redução de Dano JxJ +50",
+    "Atributos Básicos": "Bônus de Dano JxJ +50 Redução de Dano JxJ +50",
     "Desperto": {
       "Nv. 5": "Bônus de Dano JxJ +20",
       "Nv. 10": "Bônus de Dano JxJ +30",
@@ -1862,7 +1862,7 @@
   {
     "Nome": "Marionete Deviling I",
     "Armamento": "costas",
-    "Atributos Básicos": "Bônus de Dano JxA +100|Redução de Dano JxA +100",
+    "Atributos Básicos": "Bônus de Dano JxA +100 Redução de Dano JxA +100",
     "Desperto": {
       "Nv. 5": "Bônus de Dano JxA +20",
       "Nv. 10": "Bônus de Dano JxA +30",
@@ -1872,7 +1872,7 @@
   {
     "Nome": "Marionete Deviling II+",
     "Armamento": "costas",
-    "Atributos Básicos": "Bônus de Dano JxJ +100|Redução de Dano Jx] +100",
+    "Atributos Básicos": "Bônus de Dano JxJ +100 Redução de Dano Jx] +100",
     "Desperto": {
       "Nv. 5": "Bônus de Dano JxJ +20",
       "Nv. 10": "Bônus de Dano JxJ +30",
@@ -1884,9 +1884,9 @@
     "Armamento": "boca",
     "Atributos Básicos": "Redução de Dano x Inimigo Médio +3.00%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Médio +0.50%",
-      "Nv. 10": "Redução de Dano x Inimigo|Médio +1%",
-      "Nv. 15": "Redução de Dano x Inimigo|Médio +1.50%"
+      "Nv. 5": "Redução de Dano x Inimigo Médio +0.50%",
+      "Nv. 10": "Redução de Dano x Inimigo Médio +1%",
+      "Nv. 15": "Redução de Dano x Inimigo Médio +1.50%"
     }
   },
   {
@@ -1894,9 +1894,9 @@
     "Armamento": "boca",
     "Atributos Básicos": "Redução de Dano x Inimigo Médio +8.00%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Médio +1%",
-      "Nv. 10": "Redução de Dano x Inimigo|Médio +2%",
-      "Nv. 15": "Redução de Dano x Inimigo|Médio +3%"
+      "Nv. 5": "Redução de Dano x Inimigo Médio +1%",
+      "Nv. 10": "Redução de Dano x Inimigo Médio +2%",
+      "Nv. 15": "Redução de Dano x Inimigo Médio +3%"
     }
   },
   {
@@ -1962,21 +1962,21 @@
   {
     "Nome": "Marionete Freeoni I",
     "Armamento": "boca",
-    "Atributos Básicos": "Redução de Dano x Inimigo|Pequeno +3.00%",
+    "Atributos Básicos": "Redução de Dano x Inimigo Pequeno +3.00%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Pequeno +0.50%",
-      "Nv. 10": "Redução de Dano x Inimigo|Pequeno +1%",
-      "Nv. 15": "Redução de Dano x Inimigo|Pequeno +1.50%"
+      "Nv. 5": "Redução de Dano x Inimigo Pequeno +0.50%",
+      "Nv. 10": "Redução de Dano x Inimigo Pequeno +1%",
+      "Nv. 15": "Redução de Dano x Inimigo Pequeno +1.50%"
     }
   },
   {
     "Nome": "Marionete Freeoni II",
     "Armamento": "boca",
-    "Atributos Básicos": "Redução de Dano x Inimigo|Pequeno +8.00%",
+    "Atributos Básicos": "Redução de Dano x Inimigo Pequeno +8.00%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Pequeno +1%",
-      "Nv. 10": "Redução de Dano x Inimigo|Pequeno +2%",
-      "Nv. 15": "Redução de Dano x Inimigo|Pequeno +3%"
+      "Nv. 5": "Redução de Dano x Inimigo Pequeno +1%",
+      "Nv. 10": "Redução de Dano x Inimigo Pequeno +2%",
+      "Nv. 15": "Redução de Dano x Inimigo Pequeno +3%"
     }
   },
   {
@@ -2022,7 +2022,7 @@
   {
     "Nome": "Mastering",
     "Armamento": "Capa",
-    "Atributos Básicos": "SOR +5|RES CRÍT +15",
+    "Atributos Básicos": "SOR +5 RES CRÍT +15",
     "Desperto": {
       "Nv. 5": "SOR +3",
       "Nv. 10": "RES CRÍT +3",
@@ -2032,7 +2032,7 @@
   {
     "Nome": "Matyr",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Х|Carta: Matyr",
+    "Atributos Básicos": "PV Máx +3.00% AGI +1",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "AGI +1",
@@ -2042,17 +2042,17 @@
   {
     "Nome": "Maya",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Quando você recebe ATQM, 20% desse dano é refletido de volta para|o inimigo. Para cada 1 ponto de VIT|que você possui, o Anti-lesão|aumenta em 0.2%, até 40%.",
+    "Atributos Básicos": "Quando você recebe ATQM, 20% desse dano é refletido de volta para o inimigo. Para cada 1 ponto de VIT que você possui, o Anti-lesão aumenta em 0.2%, até 40%.",
     "Desperto": {
       "Nv. 5": "Dano refletido +10%",
       "Nv. 10": "Dano máximo de refletir +20%.",
-      "Nv. 15": "Cada ponto de VIT aumenta|o Anti-lesão em 0.1%."
+      "Nv. 15": "Cada ponto de VIT aumenta o Anti-lesão em 0.1%."
     }
   },
   {
     "Nome": "Maya Macho",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "VIT +8|Você pode ver monstros escondidos ou em disfarce.",
+    "Atributos Básicos": "VIT +8 Você pode ver monstros escondidos ou em disfarce.",
     "Desperto": {
       "Nv. 5": "VIT +4",
       "Nv. 10": "Redução de Dano F/M +1.50%",
@@ -2062,7 +2062,7 @@
   {
     "Nome": "Megalodon",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Resistência Congelamento +20.00%|PV Máx +4.00%",
+    "Atributos Básicos": "Resistência Congelamento +20.00% PV Máx +4.00%",
     "Desperto": {
       "Nv. 5": "Resistência Congelamento +10%",
       "Nv. 10": "PV Máx +1%",
@@ -2072,7 +2072,7 @@
   {
     "Nome": "Metaller",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +25|ATQM +25|Quando atacar, tem 5% de chance de causar Silêncio ao inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +25 ATQM +25 Quando atacar, tem 5% de chance de causar Silêncio ao inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +25",
       "Nv. 10": "ATQF/ATQM +50",
@@ -2082,7 +2082,7 @@
   {
     "Nome": "Minorous",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +20|ATQM +20|Dano x Inimigo Grande +18.00%",
+    "Atributos Básicos": "ATQF +20 ATQM +20 Dano x Inimigo Grande +18.00%",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo Grande +2%",
       "Nv. 10": "Dano x Inimigo Grande +3%",
@@ -2102,17 +2102,17 @@
   {
     "Nome": "Moldura Abissal",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Petrificar o inimigo por 1s. (Resf.:|2s)",
+    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Petrificar o inimigo por 1s. (Resf.: 2s)",
     "Desperto": {
       "Nv. 5": "Chance de Petrificar o inimigo +0.5%",
-      "Nv. 10": "Chance de Petrificar o|inimigo +1%",
+      "Nv. 10": "Chance de Petrificar o inimigo +1%",
       "Nv. 15": "Chance de Petrificar o inimigo +1.5%"
     }
   },
   {
     "Nome": "Mosca Caçadora",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +25|ATQM +25|Seu ataque tem 3% de chance de curar em 15% do dano causado",
+    "Atributos Básicos": "ATQF +25 ATQM +25 Seu ataque tem 3% de chance de curar em 15% do dano causado",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +25",
       "Nv. 10": "ATQF/ATQM +50",
@@ -2122,7 +2122,7 @@
   {
     "Nome": "Muka",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Recuperação de PV +5.00%|VIT +3",
+    "Atributos Básicos": "Recuperação de PV +5.00% VIT +3",
     "Desperto": {
       "Nv. 5": "VIT +1",
       "Nv. 10": "PV Máx +1%",
@@ -2132,7 +2132,7 @@
   {
     "Nome": "Munak",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "PV Máx +4.00%|Resistência de Dano de Terra +5.00%",
+    "Atributos Básicos": "PV Máx +4.00% Resistência de Dano de Terra +5.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PV Máx +1.50%",
@@ -2142,17 +2142,17 @@
   {
     "Nome": "Mysteltainn",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Redução de Dano x Inimigo|Pequeno +15.00% deFF +1",
+    "Atributos Básicos": "Redução de Dano x Inimigo Pequeno +15.00% deFF +1",
     "Desperto": {
-      "Nv. 5": "Redução de Dano x Inimigo|Pequeno +1%",
-      "Nv. 10": "Redução de Dano x Inimigo|Pequeno +1.50%",
-      "Nv. 15": "Redução de Dano x Inimigo|Pequeno +2.50%"
+      "Nv. 5": "Redução de Dano x Inimigo Pequeno +1%",
+      "Nv. 10": "Redução de Dano x Inimigo Pequeno +1.50%",
+      "Nv. 15": "Redução de Dano x Inimigo Pequeno +2.50%"
     }
   },
   {
     "Nome": "Mímico",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Х|Carta: Mímico",
+    "Atributos Básicos": "ATQM +10 TC Variável -2.00%",
     "Desperto": {
       "Nv. 5": "ATQM +0.50%",
       "Nv. 10": "ATQM +1%",
@@ -2162,7 +2162,7 @@
   {
     "Nome": "Mímico (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "х|Carta Éter: Mímico",
+    "Atributos Básicos": "ATQM +20 TC Variável -4.00% TC Fixo -1.00%",
     "Desperto": {
       "Nv. 5": "ATQM +1%",
       "Nv. 10": "ATQM +2%",
@@ -2172,7 +2172,7 @@
   {
     "Nome": "Mímico do Pesadelo",
     "Armamento": "Calçado",
-    "Atributos Básicos": "PV Máx +4.00%|Cura Recebida +4.00%",
+    "Atributos Básicos": "PV Máx +4.00% Cura Recebida +4.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PV Máx +1.50%",
@@ -2192,11 +2192,11 @@
   {
     "Nome": "Múmia Anciã",
     "Armamento": "Mão Secundária",
-    "Atributos Básicos": "Ao sofrer Dano F, tem 5% de chance de auto conjurar Signum|Crucis Nv. 5. Sem Resf.",
+    "Atributos Básicos": "Ao sofrer Dano F, tem 5% de chance de auto conjurar Signum Crucis Nv. 5. Sem Resf.",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PV Máx +1.50%",
-      "Nv. 15": "A probabilidade de auto|conjurar Signum Crucis Nv. 5 ao|sofrer Dano F aumenta em 3%."
+      "Nv. 15": "A probabilidade de auto conjurar Signum Crucis Nv. 5 ao sofrer Dano F aumenta em 3%."
     }
   },
   {
@@ -2212,7 +2212,7 @@
   {
     "Nome": "Nove Caudas",
     "Armamento": "Capa",
-    "Atributos Básicos": "х|Carta: Nove Caudas",
+    "Atributos Básicos": "AGI +3 ESQUIVA +10",
     "Desperto": {
       "Nv. 5": "ESQUIVA +5",
       "Nv. 10": "AGI +1",
@@ -2242,7 +2242,7 @@
   {
     "Nome": "Obeaune Ancestral",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano de Habilidade Água +8.00%|Para cada Refino +2: dano em|habilidades de água +1%.",
+    "Atributos Básicos": "Dano de Habilidade Água +8.00% Para cada Refino +2: dano em habilidades de água +1%.",
     "Desperto": {
       "Nv. 5": "Dano de Habilidade Água +1.50%",
       "Nv. 10": "Dano de Habilidade Água +2.50%",
@@ -2252,7 +2252,7 @@
   {
     "Nome": "Orc Arqueiro",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Rajada de Flechas Nv. 1. Resf.: 2s. Se a habilidade for|aprendida, o nível automático da|conjuração será o mais alto já|adquirido.",
+    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Rajada de Flechas Nv. 1. Resf.: 2s. Se a habilidade for aprendida, o nível automático da conjuração será o mais alto já adquirido.",
     "Desperto": {
       "Nv. 5": "Aumenta a Chance em 0.5%.",
       "Nv. 10": "Aumenta a Chance em 1%.",
@@ -2262,7 +2262,7 @@
   {
     "Nome": "Orc Arqueiro (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Rajada de Flechas Nv. 3. Resf.: 0.5s. Se a habilidade for|aprendida, o nível automático da|conjuração será o mais alto já|adquirido.|Conjura duas Rajada de Flechas",
+    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Rajada de Flechas Nv. 3. Resf.: 0.5s. Se a habilidade for aprendida, o nível automático da conjuração será o mais alto já adquirido. Conjura duas Rajada de Flechas",
     "Desperto": {
       "Nv. 5": "Aumenta a Chance em 0.5%.",
       "Nv. 10": "Aumenta a Chance em 1%.",
@@ -2282,7 +2282,7 @@
   {
     "Nome": "Orc Herói",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "VIT +8|Evita entrar no estado de Atordoar.",
+    "Atributos Básicos": "VIT +8 Evita entrar no estado de Atordoar.",
     "Desperto": {
       "Nv. 5": "PV Máx +4%",
       "Nv. 10": "Redução de Dano F/M +6%",
@@ -2302,7 +2302,7 @@
   {
     "Nome": "Ornamento de Rosa",
     "Armamento": "Face",
-    "Atributos Básicos": "PV Máx +1.00%|Cura Recebida +1.00%|Efeito de Cura +1.00%",
+    "Atributos Básicos": "PV Máx +1.00% Cura Recebida +1.00% Efeito de Cura +1.00%",
     "Desperto": {
       "Nv. 5": "Efeito de Cura +0.50%",
       "Nv. 10": "Redução de Dano F/M +1%",
@@ -2312,7 +2312,7 @@
   {
     "Nome": "Osiris",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Ao sofrer um dano fatal por|habilidades, seu PV trava em 1 e não será possível se mover ou usar|habilidades por 3s. Durante o|período de invencibilidade,|recupera 70% de PV e PM. (Resf.:|3min)",
+    "Atributos Básicos": "Ao sofrer um dano fatal por habilidades, seu PV trava em 1 e não será possível se mover ou usar habilidades por 3s. Durante o período de invencibilidade, recupera 70% de PV e PM. (Resf.: 3min)",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +4%",
       "Nv. 10": "PV Máx +6%",
@@ -2322,7 +2322,7 @@
   {
     "Nome": "Osiris (Ilusória)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Ao sofrer um dano fatal por|habilidades, seu PV trava em 1 e não será possível se mover ou usar|habilidades por 3s. Durante o|período de invencibilidade,|recupera 20% de PV e PM. (Resf.:|6min)",
+    "Atributos Básicos": "Ao sofrer um dano fatal por habilidades, seu PV trava em 1 e não será possível se mover ou usar habilidades por 3s. Durante o período de invencibilidade, recupera 20% de PV e PM. (Resf.: 6min)",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +1%",
       "Nv. 10": "Redução de Dano F/M +2%",
@@ -2382,7 +2382,7 @@
   {
     "Nome": "Peco Peco (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Amorfo +3.00% derrotar 1 Inimigo Amorfo, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Amorfo +3.00% derrotar 1 Inimigo Amorfo, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Amorfo +0.50%",
       "Nv. 10": "Dano x Amorfo +1%",
@@ -2392,7 +2392,7 @@
   {
     "Nome": "Peixe Espada",
     "Armamento": "Armadura",
-    "Atributos Básicos": "DEFF +1|Muda o elemento da armadura para Água",
+    "Atributos Básicos": "DEFF +1 Muda o elemento da armadura para Água",
     "Desperto": {
       "Nv. 5": "PV Máx +3%",
       "Nv. 10": "Redução de Dano F/M +1%",
@@ -2412,7 +2412,7 @@
   {
     "Nome": "Pesadelo",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "AGI +3|Evita entrar no estado de Sono.",
+    "Atributos Básicos": "AGI +3 Evita entrar no estado de Sono.",
     "Desperto": {
       "Nv. 5": "AGI +2",
       "Nv. 10": "Redução de Dano F/M +1.50%",
@@ -2422,7 +2422,7 @@
   {
     "Nome": "Pesadelo Infernal",
     "Armamento": "Calçado",
-    "Atributos Básicos": "AGI +2|PV Máx +4.00%|Ao sofrer ATQF, tem 10% de chance de auto conjurar Luz Divina Nv. 3. Sem Resf.",
+    "Atributos Básicos": "AGI +2 PV Máx +4.00% Ao sofrer ATQF, tem 10% de chance de auto conjurar Luz Divina Nv. 3. Sem Resf.",
     "Desperto": {
       "Nv. 5": "PV Máx +2%",
       "Nv. 10": "AGI +2",
@@ -2442,7 +2442,7 @@
   {
     "Nome": "Petite (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Dragão +3.00% derrotar 1 Inimigo Dragão, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Dragão +3.00% derrotar 1 Inimigo Dragão, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Dragão +0.50%",
       "Nv. 10": "Dano x Dragão +1%",
@@ -2462,7 +2462,7 @@
   {
     "Nome": "Picky",
     "Armamento": "Armadura",
-    "Atributos Básicos": "FOR +1|ATQF +5",
+    "Atributos Básicos": "FOR +1 ATQF +5",
     "Desperto": {
       "Nv. 5": "FOR +1",
       "Nv. 10": "FOR +1",
@@ -2472,7 +2472,7 @@
   {
     "Nome": "Picky Angelical",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Inimigo Pequeno +5.00%|Quando equipado com Carta: Eggy demoníaco: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s) (Não acumula com múltiplos equipamentos.)",
+    "Atributos Básicos": "Dano x Inimigo Pequeno +5.00% Quando equipado com Carta: Eggy demoníaco: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s) (Não acumula com múltiplos equipamentos.)",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +1%",
       "Nv. 10": "Dano x Inimigo Pequeno +2%",
@@ -2482,7 +2482,7 @@
   {
     "Nome": "Picky Heroico",
     "Armamento": "Capa",
-    "Atributos Básicos": "AGI +2|PRECISÃO +5 deFF +20",
+    "Atributos Básicos": "AGI +2 PRECISÃO +5 deFF +20",
     "Desperto": {
       "Observação": "Não é possível despertar",
       "Nv. 5": "N/A",
@@ -2493,17 +2493,17 @@
   {
     "Nome": "Plankton",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +15|ATQM +15|Quando atacar, tem 5% de chance de causar Sono ao inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +15 ATQM +15 Quando atacar, tem 5% de chance de causar Sono ao inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +10",
       "Nv. 10": "ATQF/ATQM +15",
-      "Nv. 15": "Quando atacar o inimigo, tem|5% de chance de deixar o inimigo|em estado de Sono."
+      "Nv. 15": "Quando atacar o inimigo, tem 5% de chance de deixar o inimigo em estado de Sono."
     }
   },
   {
     "Nome": "Planta Carnívora",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Redução de Dano x Morto-Vivo +5.00%|Redução de Dano x Demônio +5.00%",
+    "Atributos Básicos": "Redução de Dano x Morto-Vivo +5.00% Redução de Dano x Demônio +5.00%",
     "Desperto": {
       "Nv. 5": "Redução de Dano x Morto-Vivo +1%",
       "Nv. 10": "Redução de Dano x Morto-Vivo +1.50%",
@@ -2533,7 +2533,7 @@
   {
     "Nome": "Poporing Furioso",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Básicos|Avanço Ofensivo Nv.1 é desbloqueado",
+    "Atributos Básicos": "Básicos Avanço Ofensivo Nv.1 é desbloqueado",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +0.40%",
       "Nv. 10": "Dano F/Dano M +0.50%",
@@ -2543,7 +2543,7 @@
   {
     "Nome": "Poring",
     "Armamento": "Armadura",
-    "Atributos Básicos": "SOR +2|ESQUIVA +1",
+    "Atributos Básicos": "SOR +2 ESQUIVA +1",
     "Desperto": {
       "Nv. 5": "ESQUIVA +3",
       "Nv. 10": "PV Máx +100",
@@ -2553,7 +2553,7 @@
   {
     "Nome": "Presente",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "INT +2|Cura 5% PV ao matar um inimigo. (Resf.: 1s)",
+    "Atributos Básicos": "INT +2 Cura 5% PV ao matar um inimigo. (Resf.: 1s)",
     "Desperto": {
       "Nv. 5": "INT +1",
       "Nv. 10": "INT +2",
@@ -2593,7 +2593,7 @@
   {
     "Nome": "Quimera",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao sofrer dano, tem 10% de chance de causar Maldição da Língua|Flamejante no inimigo por 15s.|Efeito: Reduz 5% do PV Máx/s e Queima",
+    "Atributos Básicos": "Ao sofrer dano, tem 10% de chance de causar Maldição da Língua Flamejante no inimigo por 15s. Efeito: Reduz 5% do PV Máx/s e Queima",
     "Desperto": {
       "Nv. 5": "Chance do Efeito +2%",
       "Nv. 10": "Chance do Efeito +3%",
@@ -2633,7 +2633,7 @@
   {
     "Nome": "Rei Brinquedo",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "O ATQF tem 5% de chance de auto|conjurar Bombardeio de Brinquedo,|causando Dano F ADE e VMOV|-30% por 3s. (Resf. Padrão: 10s)",
+    "Atributos Básicos": "O ATQF tem 5% de chance de auto conjurar Bombardeio de Brinquedo, causando Dano F ADE e VMOV -30% por 3s. (Resf. Padrão: 10s)",
     "Desperto": {
       "Nv. 5": "Dano M +4%",
       "Nv. 10": "Chance de Bombardeio de Brinquedo +3%",
@@ -2653,7 +2653,7 @@
   {
     "Nome": "Rideword",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "INT +1|Efeito de Cura +2.00%",
+    "Atributos Básicos": "INT +1 Efeito de Cura +2.00%",
     "Desperto": {
       "Nv. 5": "INT +2",
       "Nv. 10": "Efeito de Cura +1%",
@@ -2663,7 +2663,7 @@
   {
     "Nome": "Rocker",
     "Armamento": "Armadura",
-    "Atributos Básicos": "DES +2|ATQF +5",
+    "Atributos Básicos": "DES +2 ATQF +5",
     "Desperto": {
       "Nv. 5": "ATQF +5",
       "Nv. 10": "DES +2",
@@ -2673,7 +2673,7 @@
   {
     "Nome": "Rosa Selvagem",
     "Armamento": "Calçado",
-    "Atributos Básicos": "AGI +2|ESQUIVA +5",
+    "Atributos Básicos": "AGI +2 ESQUIVA +5",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PV Máx +1.50%",
@@ -2693,21 +2693,21 @@
   {
     "Nome": "Réquiem",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +25|ATQM +25|Quando atacar, tem 5% de chance de causar Medo ao inimigo. Sem Resf.",
+    "Atributos Básicos": "ATQF +25 ATQM +25 Quando atacar, tem 5% de chance de causar Medo ao inimigo. Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +25",
       "Nv. 10": "ATQF/ATQM +50",
-      "Nv. 15": "Quando atacar, aumenta a|chance de causar Medo ao inimigo|em 5%."
+      "Nv. 15": "Quando atacar, aumenta a chance de causar Medo ao inimigo em 5%."
     }
   },
   {
     "Nome": "Sacerdote Maldito",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Seus ataques têm 20% de chance de tirar 10% do PM máximo do seu|alvo (ataques básicos podem tirar|até 100 PM enquanto habilidades|podem tirar até 300 PM). Sem Resf.",
+    "Atributos Básicos": "Seus ataques têm 20% de chance de tirar 10% do PM máximo do seu alvo (ataques básicos podem tirar até 100 PM enquanto habilidades podem tirar até 300 PM). Sem Resf.",
     "Desperto": {
       "Nv. 5": "Dano M +4%",
       "Nv. 10": "Dano M +8%",
-      "Nv. 15": "Seu ataque tem 20% de chance de deduzir 15% do PM Máx|do alvo (ataques básicos podem deduzir até 300 PM enquanto|habilidades podem deduzir até"
+      "Nv. 15": "Seu ataque tem 20% de chance de deduzir 15% do PM Máx do alvo (ataques básicos podem deduzir até 300 PM enquanto habilidades podem deduzir até"
     }
   },
   {
@@ -2733,7 +2733,7 @@
   {
     "Nome": "Sapo de Roda",
     "Armamento": "Armadura",
-    "Atributos Básicos": "VIT +1|PV Máx +150",
+    "Atributos Básicos": "VIT +1 PV Máx +150",
     "Desperto": {
       "Nv. 5": "VIT +1",
       "Nv. 10": "VIT +2",
@@ -2743,7 +2743,7 @@
   {
     "Nome": "Sapo de Roda (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Inseto +3.00% derrotar 1 Inimigo Inseto, recebe 1|acúmulo de [Amplificação da Alma]|efeito, recebe ATQF/ATQM +15 por|5s, até 3 acúmulos. Não acúmula|com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Inseto +3.00% derrotar 1 Inimigo Inseto, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Inseto +0.50%",
       "Nv. 10": "Dano x Inseto +1%",
@@ -2773,27 +2773,27 @@
   {
     "Nome": "Sapo-Cururu",
     "Armamento": "Capa",
-    "Atributos Básicos": "х|Carta: Sapo-Cururu",
+    "Atributos Básicos": "ESQUIVA +5 DES +3 Refino +10: DES +5",
     "Desperto": {
       "Nv. 5": "DES +3",
-      "Nv. 10": "Refino +10: DES é|aumentado em +3.",
+      "Nv. 10": "Refino +10: DES é aumentado em +3.",
       "Nv. 15": "Dano F +2%"
     }
   },
   {
     "Nome": "Sasquatch",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Congelar o inimigo por 1s. (Resf.:|2s)",
+    "Atributos Básicos": "Ao sofrer ATQF, tem 3% de chance de Congelar o inimigo por 1s. (Resf.: 2s)",
     "Desperto": {
       "Nv. 5": "Chance de Congelar o inimigo +0.5%",
-      "Nv. 10": "Chance de Congelar o|inimigo +1%",
+      "Nv. 10": "Chance de Congelar o inimigo +1%",
       "Nv. 15": "Chance de Congelar o inimigo +1.5%"
     }
   },
   {
     "Nome": "Sedora",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "х|Carta: Sedora",
+    "Atributos Básicos": "Dano CRÍT +10.00% CRÍT +2",
     "Desperto": {
       "Nv. 5": "CRIT +5",
       "Nv. 10": "Dano CRÍT +2%",
@@ -2813,11 +2813,11 @@
   {
     "Nome": "Senhor das Trevas",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Ao sofrer ATQF, tem 10% de chance de auto conjurar Chuva de Meteoros Nv.3 (Resf.: 1s)|PV Máx +5.00%",
+    "Atributos Básicos": "Ao sofrer ATQF, tem 10% de chance de auto conjurar Chuva de Meteoros Nv.3 (Resf.: 1s) PV Máx +5.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +4%",
       "Nv. 10": "PV Máx +6%",
-      "Nv. 15": "Chance de auto conjurar|Chuva de Meteoros Nv.3 +5%"
+      "Nv. 15": "Chance de auto conjurar Chuva de Meteoros Nv.3 +5%"
     }
   },
   {
@@ -2825,7 +2825,7 @@
     "Armamento": "Calçado",
     "Atributos Básicos": "Ao sofrer ATQF, tem 5% de chance de auto conjurar Chuva de Meteoros Nv.1. Resf.: 1s.",
     "Desperto": {
-      "Nv. 5": "Chance de auto conjurar|Chuva de Meteoros Nv.1 +3%",
+      "Nv. 5": "Chance de auto conjurar Chuva de Meteoros Nv.1 +3%",
       "Nv. 10": "PV Máx +1.50%",
       "Nv. 15": "PV Máx +2.50%"
     }
@@ -2833,11 +2833,11 @@
   {
     "Nome": "Senhor dos Orcs",
     "Armamento": "Armadura",
-    "Atributos Básicos": "Ao receber ataques físicos básicos|em curta distância, 20% de Anti-lesão será refletido ao inimigo,|causando mais 0.2% de refletir por|cada 1 ponto de VIT. O tipo de dano refletido é dano físico e pode refletir até 40%.",
+    "Atributos Básicos": "Ao receber ataques físicos básicos em curta distância, 20% de Anti-lesão será refletido ao inimigo, causando mais 0.2% de refletir por cada 1 ponto de VIT. O tipo de dano refletido é dano físico e pode refletir até 40%.",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +4%",
       "Nv. 10": "Redução de Dano F/M +6%",
-      "Nv. 15": "Cada ponto adicional de VIT|aumenta em 0.1% o Anti-lesão.|Pode refletir até 60%."
+      "Nv. 15": "Cada ponto adicional de VIT aumenta em 0.1% o Anti-lesão. Pode refletir até 60%."
     }
   },
   {
@@ -2853,7 +2853,7 @@
   {
     "Nome": "Sohee",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Recuperação de PM +8.00%|PV Máx +4.00%",
+    "Atributos Básicos": "Recuperação de PM +8.00% PV Máx +4.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PV Máx +1.50%",
@@ -2863,7 +2863,7 @@
   {
     "Nome": "Sorrateiro",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Ataques básicos ganham 10% de chance de atacar duas vezes.|Resf.: 0.3s.",
+    "Atributos Básicos": "Ataques básicos ganham 10% de chance de atacar duas vezes. Resf.: 0.3s.",
     "Desperto": {
       "Nv. 5": "A chance de ativar ataques básicos aumentam em 1%.",
       "Nv. 10": "A chance de ativar ataques básicos aumentam em 1.5%.",
@@ -2873,11 +2873,11 @@
   {
     "Nome": "Sropho",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano de Habilidade Vento +8.00%|Seus ATQF tem 3% de chance de auto conjurar Tempestade de Raios Nv.  5. Resf.: 2s.",
+    "Atributos Básicos": "Dano de Habilidade Vento +8.00% Seus ATQF tem 3% de chance de auto conjurar Tempestade de Raios Nv.  5. Resf.: 2s.",
     "Desperto": {
       "Nv. 5": "Dano de Habilidade Vento +1.50%",
       "Nv. 10": "Dano de Habilidade Vento +2.50%",
-      "Nv. 15": "Chance de auto conjurar|Tempestade de Raios Nv. 5 +3%"
+      "Nv. 15": "Chance de auto conjurar Tempestade de Raios Nv. 5 +3%"
     }
   },
   {
@@ -2903,7 +2903,7 @@
   {
     "Nome": "Strouf (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Demônio +3.00% derrotar 1 Inimigo Demônio, recebe 1 acúmulo de [Amplificação da|Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Demônio +3.00% derrotar 1 Inimigo Demônio, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Demônio +0.50%",
       "Nv. 10": "Dano x Demônio +1%",
@@ -2923,7 +2923,7 @@
   {
     "Nome": "Super Picky",
     "Armamento": "Armadura",
-    "Atributos Básicos": "VIT +1|PV Máx +100",
+    "Atributos Básicos": "VIT +1 PV Máx +100",
     "Desperto": {
       "Nv. 5": "DEFF +10",
       "Nv. 10": "PV Máx +50",
@@ -2943,7 +2943,7 @@
   {
     "Nome": "Sussurro",
     "Armamento": "Capa",
-    "Atributos Básicos": "ESQUIVA +10|Dano fantasma recebido aumentado em 25%.",
+    "Atributos Básicos": "ESQUIVA +10 Dano fantasma recebido aumentado em 25%.",
     "Desperto": {
       "Nv. 5": "ESQUIVA +5",
       "Nv. 10": "Receba 15% menos dano de fantasma recebido.",
@@ -2953,7 +2953,7 @@
   {
     "Nome": "Talo de Verme",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Corte Vermelho Nv.1.|Resf.: 2s. Se a habilidade for|aprendida, o nível automático da|conjuração será o mais alto já|adquirido.",
+    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Corte Vermelho Nv.1. Resf.: 2s. Se a habilidade for aprendida, o nível automático da conjuração será o mais alto já adquirido.",
     "Desperto": {
       "Nv. 5": "Aumenta a Chance em 0.5%",
       "Nv. 10": "Aumenta a Chance em 1%",
@@ -2963,7 +2963,7 @@
   {
     "Nome": "Talo de Verme (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seus ATQF tem 3% de chance de auto conjurar Corte Vermelho Nv.3.|Resf.: 0.8s. Se tiver aprendido a|habilidade, o nível automático da|conjuração será o mais alto já|adquirido.|Após conjurar Corte Vermelho,",
+    "Atributos Básicos": "Seus ATQF tem 3% de chance de auto conjurar Corte Vermelho Nv.3. Resf.: 0.8s. Se tiver aprendido a habilidade, o nível automático da conjuração será o mais alto já adquirido. Após conjurar Corte Vermelho,",
     "Desperto": {
       "Nv. 5": "Aumenta a Chance em 0.5%.",
       "Nv. 10": "Aumenta a Chance em 1%.",
@@ -2973,17 +2973,17 @@
   {
     "Nome": "Tambor de Doram",
     "Armamento": "costas",
-    "Atributos Básicos": "Redução de Dano de Terra, Água,|Vento e Fogo +1%",
+    "Atributos Básicos": "Redução de Dano de Terra, Água, Vento e Fogo +1%",
     "Desperto": {
-      "Nv. 5": "Redução de Dano de Terra,|Água, Vento e Fogo +1%",
-      "Nv. 10": "Redução de Dano de Terra,|Água, Vento e Fogo +1.5%",
+      "Nv. 5": "Redução de Dano de Terra, Água, Vento e Fogo +1%",
+      "Nv. 10": "Redução de Dano de Terra, Água, Vento e Fogo +1.5%",
       "Nv. 15": "PV Máx +2%"
     }
   },
   {
     "Nome": "Tarou",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ATQF +5|ATQM +5",
+    "Atributos Básicos": "ATQF +5 ATQM +5",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +4",
       "Nv. 10": "ATQF/ATQM +6",
@@ -2993,7 +2993,7 @@
   {
     "Nome": "Tritão",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Recuperação de PM +5.00%|PV Máx +2.00%|Recuperação de PV +5.00%",
+    "Atributos Básicos": "Recuperação de PM +5.00% PV Máx +2.00% Recuperação de PV +5.00%",
     "Desperto": {
       "Nv. 5": "Recuperação de PM +2%",
       "Nv. 10": "PV Máx +1.50%",
@@ -3003,7 +3003,7 @@
   {
     "Nome": "Túnica de Atenas",
     "Armamento": "Fantasia",
-    "Atributos Básicos": "Dano de Habilidade Sagrado +1.50%|Dano x Demônio +1.50%",
+    "Atributos Básicos": "Dano de Habilidade Sagrado +1.50% Dano x Demônio +1.50%",
     "Desperto": {
       "Nv. 5": "Redução de Dano F/M +1%",
       "Nv. 10": "Dano x Demônio +1.50%",
@@ -3023,7 +3023,7 @@
   {
     "Nome": "Verit",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Х|Carta: Verit",
+    "Atributos Básicos": "PV Máx +3.00% PM Máx +4.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PM Máx +2%",
@@ -3033,7 +3033,7 @@
   {
     "Nome": "Verme Sábio",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano M +8.00%|Recuperação de PM +20",
+    "Atributos Básicos": "Dano M +8.00% Recuperação de PM +20",
     "Desperto": {
       "Nv. 5": "Dano M +1%",
       "Nv. 10": "Dano M +1.50%",
@@ -3043,7 +3043,7 @@
   {
     "Nome": "Vigia do Tempo",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQM +20.00%|Consumo de PM +10.00%|TC Fixo -5.00%",
+    "Atributos Básicos": "ATQM +20.00% Consumo de PM +10.00% TC Fixo -5.00%",
     "Desperto": {
       "Nv. 5": "ATQM +4%",
       "Nv. 10": "ATQM +6%",
@@ -3053,7 +3053,7 @@
   {
     "Nome": "Vigilante do Tempo",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "ATQM +2.00%|Usar habilidades, tem 5% de chance de receber VMOV +10% e TC Fixo -10% por 3s (Resf.: 8s)",
+    "Atributos Básicos": "ATQM +2.00% Usar habilidades, tem 5% de chance de receber VMOV +10% e TC Fixo -10% por 3s (Resf.: 8s)",
     "Desperto": {
       "Nv. 5": "ATQM +1%",
       "Nv. 10": "Efeito da VMOV +5%",
@@ -3073,7 +3073,7 @@
   {
     "Nome": "Vitata (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Ao curar o alvo com Curar, DEFM|do oponente +3% por 5 segundos,|Resf. de 10s, acumula até 5|camadas.",
+    "Atributos Básicos": "Ao curar o alvo com Curar, DEFM do oponente +3% por 5 segundos, Resf. de 10s, acumula até 5 camadas.",
     "Desperto": {
       "Nv. 5": "Efeito de Cura +1%",
       "Nv. 10": "Efeito de Cura +2%",
@@ -3083,7 +3083,7 @@
   {
     "Nome": "Vocal",
     "Armamento": "Capa",
-    "Atributos Básicos": "Redução de Dano M +5.00%|Refino +10: Dano M +3%.",
+    "Atributos Básicos": "Redução de Dano M +5.00% Refino +10: Dano M +3%.",
     "Desperto": {
       "Nv. 5": "Redução de Dano M +1%",
       "Nv. 10": "Redução de Dano M +1.50%",
@@ -3093,17 +3093,17 @@
   {
     "Nome": "Xamã do Vento",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Trovão de Júpiter Nv. 1. Resf.: 2s. Se a habilidade for|aprendida, o nível automático da|conjuração será o mais alto já|adquirido.",
+    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Trovão de Júpiter Nv. 1. Resf.: 2s. Se a habilidade for aprendida, o nível automático da conjuração será o mais alto já adquirido.",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +0.50%",
       "Nv. 10": "Dano F/Dano M +1%",
-      "Nv. 15": "Seu ATQF tem a chance de auto conjurar Trovão de Júpiter Nv.1|aumenta em 3%. Se a habilidade for aprendida, o nível de auto|conjurar será o mais alto já"
+      "Nv. 15": "Seu ATQF tem a chance de auto conjurar Trovão de Júpiter Nv.1 aumenta em 3%. Se a habilidade for aprendida, o nível de auto conjurar será o mais alto já"
     }
   },
   {
     "Nome": "Xamã do Vento (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Trovão de Júpiter Nv. 3. Resf.: 0.6s. Se a habilidade for|aprendida, o nível automático da|conjuração será o mais alto já|adquirido.|Quando Trovão de Júpiter causar",
+    "Atributos Básicos": "Seu ATQF têm 3% de chance de auto conjurar Trovão de Júpiter Nv. 3. Resf.: 0.6s. Se a habilidade for aprendida, o nível automático da conjuração será o mais alto já adquirido. Quando Trovão de Júpiter causar",
     "Desperto": {
       "Nv. 5": "Dano F/Dano M +1%",
       "Nv. 10": "Dano F/Dano M +2%",
@@ -3113,7 +3113,7 @@
   {
     "Nome": "Yoyo",
     "Armamento": "Acessório",
-    "Atributos Básicos": "ESQUIVA +2|AGI +1",
+    "Atributos Básicos": "ESQUIVA +2 AGI +1",
     "Desperto": {
       "Nv. 5": "ESQUIVA +2",
       "Nv. 10": "ATQF +5",
@@ -3133,7 +3133,7 @@
   {
     "Nome": "Zangão Gigante",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Resistência de Dano de Vento +10.00%|VIT +2",
+    "Atributos Básicos": "Resistência de Dano de Vento +10.00% VIT +2",
     "Desperto": {
       "Nv. 5": "VIT +2",
       "Nv. 10": "Resistência de Dano de Vento +2%",
@@ -3143,7 +3143,7 @@
   {
     "Nome": "Zealotus",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano F a Distância +12.00%|Refino +10: ATQF +3%.",
+    "Atributos Básicos": "Dano F a Distância +12.00% Refino +10: ATQF +3%.",
     "Desperto": {
       "Nv. 5": "Refino +10: ATQF +2%",
       "Nv. 10": "Dano F a Distância +2%",
@@ -3153,17 +3153,17 @@
   {
     "Nome": "Zenorc",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "ATQF +10|ATQM +10 |Quando atacar, tem 5% de chance de causar Veneno ao inimigo. |Sem Resf.",
+    "Atributos Básicos": "ATQF +10 ATQM +10  Quando atacar, tem 5% de chance de causar Veneno ao inimigo.  Sem Resf.",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +10",
       "Nv. 10": "ATQF/ATQM +10",
-      "Nv. 15": "Quando atacar o inimigo, tem|5% de chance de causar Veneno ao|inimigo."
+      "Nv. 15": "Quando atacar o inimigo, tem 5% de chance de causar Veneno ao inimigo."
     }
   },
   {
     "Nome": "Zerom",
     "Armamento": "Acessório",
-    "Atributos Básicos": "DES +3|CRÍT +2",
+    "Atributos Básicos": "DES +3 CRÍT +2",
     "Desperto": {
       "Nv. 5": "CRÍT +1",
       "Nv. 10": "DES +1",
@@ -3173,7 +3173,7 @@
   {
     "Nome": "Zerom (Éter)",
     "Armamento": "Acessório",
-    "Atributos Básicos": "DES +6|CRIT +4|Dano CRÍT +1.00%",
+    "Atributos Básicos": "DES +6 CRIT +4 Dano CRÍT +1.00%",
     "Desperto": {
       "Nv. 5": "CRÍT +2",
       "Nv. 10": "DES +4",
@@ -3183,7 +3183,7 @@
   {
     "Nome": "Zumbi",
     "Armamento": "Calçado",
-    "Atributos Básicos": "Recuperação de PV +10.00%|PV Máx +200",
+    "Atributos Básicos": "Recuperação de PV +10.00% PV Máx +200",
     "Desperto": {
       "Nv. 5": "Recuperação de PV +2%",
       "Nv. 10": "PV Máx +0.50%",
@@ -3193,7 +3193,7 @@
   {
     "Nome": "Zumbi (Éter)",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Inimigo Médio +3.00% derrotar 1 Inimigo Médio, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos.|Não acúmula com várias ou outras cartas.",
+    "Atributos Básicos": "Dano x Inimigo Médio +3.00% derrotar 1 Inimigo Médio, recebe 1 acúmulo de [Amplificação da Alma] efeito, recebe ATQF/ATQM +15 por 5s, até 3 acúmulos. Não acúmula com várias ou outras cartas.",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo Médio +0.50%",
       "Nv. 10": "Dano x Inimigo Médio +1%",
@@ -3203,7 +3203,7 @@
   {
     "Nome": "Zumbi Prisioneiro",
     "Armamento": "Calçado",
-    "Atributos Básicos": "PV Máx +3.00%|Redução de Dano x Morto-Vivo +5.00%",
+    "Atributos Básicos": "PV Máx +3.00% Redução de Dano x Morto-Vivo +5.00%",
     "Desperto": {
       "Nv. 5": "PV Máx +0.50%",
       "Nv. 10": "PV Máx +1.50%",
