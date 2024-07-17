@@ -862,7 +862,7 @@
   {
     "Nome": "Eggy Demoníaco",
     "Armamento": "Acessório",
-    "Atributos Básicos": "Ao ser atacado, recupera 5 PM|(Resf.: 0.5s)|Quando equipado com a Carta:|Picky Angelical: Ao sofrer dano,|ganhe [DEFF +5%] por 5s. (Resf.:|10s) (Não acumula com múltiplos",
+    "Atributos Básicos": "Ao ser atacado, recupera 5 PM (Resf.: 0.5s)|Quando equipado com a Carta: Picky Angelical: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s) (Não acumula com múltiplos equipamentos)",
     "Desperto": {
       "Nv. 5": "Ao receber dano, recupere 7 de PM. (Resf.: 0.5s)",
       "Nv. 10": "ATQF/ATQM +50",
@@ -2472,7 +2472,7 @@
   {
     "Nome": "Picky Angelical",
     "Armamento": "Mão Dominante",
-    "Atributos Básicos": "Dano x Inimigo Pequeno +5.00%|Quando equipado com Carta: Eggy demoníaco: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s)|(Não acumula com múltiplos|equipamentos.)",
+    "Atributos Básicos": "Dano x Inimigo Pequeno +5.00%|Quando equipado com Carta: Eggy demoníaco: Ao sofrer dano, ganhe [DEFF +5%] por 5s. (Resf.: 10s) (Não acumula com múltiplos equipamentos.)",
     "Desperto": {
       "Nv. 5": "ATQF/ATQM +1%",
       "Nv. 10": "Dano x Inimigo Pequeno +2%",
