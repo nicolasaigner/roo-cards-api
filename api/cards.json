@@ -882,7 +882,7 @@
   {
     "Nome": "Eggy de Garfo",
     "Armamento": "Chapéu",
-    "Atributos Básicos": "Redução de Dano JxA +10 Redução de Dano Jx] +10",
+    "Atributos Básicos": "Redução de Dano JxA +10 Redução de Dano JxJ +10",
     "Desperto": {
       "Nv. 5": "Dano x Inimigo de Fogo +2%",
       "Nv. 10": "Dano x Inimigo de Fogo +3%",
@@ -1872,7 +1872,7 @@
   {
     "Nome": "Marionete Deviling II+",
     "Armamento": "costas",
-    "Atributos Básicos": "Bônus de Dano JxJ +100 Redução de Dano Jx] +100",
+    "Atributos Básicos": "Bônus de Dano JxJ +100 Redução de Dano JxJ +100",
     "Desperto": {
       "Nv. 5": "Bônus de Dano JxJ +20",
       "Nv. 10": "Bônus de Dano JxJ +30",

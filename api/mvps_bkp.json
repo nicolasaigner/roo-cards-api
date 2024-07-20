@@ -1,0 +1,2033 @@
+[
+  {
+    "name": "Angeling",
+    "race": "Anjo",
+    "element": "Sagrado",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques Mortos-Vivos e de sombra para causar dano extra. Já ataques de Veneno, Vento, Terra, Fogo, Água, Sagrados e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Orc Esqueleto"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Orc Esqueleto",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Besouro-Ladrão Dourado",
+    "race": "Inseto",
+    "element": "Fogo",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Água",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Vandon"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Vandon",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Deviling",
+    "race": "Demônio",
+    "element": "Sombrio",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Sagrado"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Orc Herói",
+    "race": "Humanoide",
+    "element": "Terra",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Fogo e Veneno para causar dano extra, já ataques de Terra e Vento causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Fogo",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Senhora Orc (Nv. 15)"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Hidra"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Senhora Orc (Nv. 15)",
+            "Hidra"
+          ]
+        }
+      ],
+      "mao_secundaria": [
+        {
+          "option": 1,
+          "description": [
+            "race"
+          ],
+          "cards": [
+            "Sapo de Thara",
+            "Sapo de Thara (Ilusória)"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "element"
+          ],
+          "cards": [
+            "Munak"
+          ]
+        }
+      ],
+      "armadura": [
+        {
+          "option": 1,
+          "description": [
+            "element"
+          ],
+          "cards": [
+            "Arenoso"
+          ]
+        }
+      ],
+      "capa": [
+        {
+          "option": 1,
+          "description": [
+            "element"
+          ],
+          "cards": [
+            "Hode"
+          ]
+        }
+      ],
+      "calcado": [],
+      "acessorio": [],
+      "chapeu": [
+        {
+          "option": 1,
+          "description": [
+            "element"
+          ],
+          "cards": [
+            "Giearth"
+          ]
+        }
+      ],
+      "face": [
+        {
+          "option": 1,
+          "description": [
+            "size"
+          ],
+          "cards": [
+            "Marionete Eddga I",
+            "Marionete Eddga II+"
+          ]
+        }
+      ],
+      "boca": [
+        {
+          "option": 1,
+          "description": [
+            "race"
+          ],
+          "cards": [
+            "Chupeta de Bebê"
+          ]
+        }
+      ],
+      "costas": [
+        {
+          "option": 1,
+          "description": [
+            "element"
+          ],
+          "cards": [
+            "Tambor de Doram"
+          ]
+        }
+      ],
+      "fantasia": []
+    }
+  },
+  {
+    "name": "Maya",
+    "race": "Inseto",
+    "element": "Terra",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Fogo e Veneno para causar dano extra, já ataques de Terra e Vento causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Fogo",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Senhora Orc (Nv. 15)"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Senhora Orc (Nv. 15)",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Senhor dos Orcs",
+    "race": "Humanoide",
+    "element": "Terra",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Fogo e Veneno para causar dano extra, já ataques de Terra e Vento causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Fogo",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Senhora Orc (Nv. 15)"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Hidra"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Senhora Orc (Nv. 15)",
+            "Hidra"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Goblin",
+    "race": "Humanoide",
+    "element": "Vento",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques de Terra e Veneno para causar dano extra, já ataques de Água e Vento causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Terra",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Mandrágora"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Hidra"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Mandrágora",
+            "Hidra"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Drake",
+    "race": "Morto-Vivo",
+    "element": "Morto-Vivo",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques de Fogo, Sagrados e Fantasma para causar dano extra, já ataques de Veneno, Sombrio e Mortos-Vivos causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Fogo",
+      "Sagrado",
+      "Fantasma"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Eddga",
+    "race": "Bruto",
+    "element": "Fogo",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Água",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Vandon"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Goblin"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Vandon",
+            "Goblin"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Abelha-Rainha",
+    "race": "Inseto",
+    "element": "Vento",
+    "size": "Pequeno",
+    "tips": "Recomenda-se o uso de ataques de Terra e Veneno para causar dano extra, já ataques de Água e Vento causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Terra",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Creamy (Éter)",
+            "Mandrágora"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Creamy (Éter)",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Mandrágora",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Osíris",
+    "race": "Morto-Vivo",
+    "element": "Morto-Vivo",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques de Fogo, Sagrados e Fantasma para causar dano extra, já ataques de Veneno, Sombrio e Mortos-Vivos causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Fogo",
+      "Sagrado",
+      "Fantasma"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Freeoni",
+    "race": "Bruto",
+    "element": "Neutro",
+    "size": "Grande",
+    "tips": "Ataques de outros tipos não causam dano extra e ataques Fantasmas causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Andre"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Goblin"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Andre",
+            "Goblin"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Flor do Luar",
+    "race": "Demônio",
+    "element": "Fogo",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Água",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Vandon"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Vandon",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Drácula",
+    "race": "Demônio",
+    "element": "Sombrio",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Sagrado"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Doppelganger",
+    "race": "Demônio",
+    "element": "Sombrio",
+    "size": "Médio",
+    "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Sagrado"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Faraó",
+    "race": "Humanoide",
+    "element": "Sombrio",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Sagrado"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Hidra"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Hidra"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Bafomé",
+    "race": "Demônio",
+    "element": "Sombrio",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Sagrado"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Quimera",
+    "race": "Bruto",
+    "element": "Fogo",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Água e Veneno para causar dano extra, já ataques de Fogo e Terra causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Água",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Vandon"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Goblin"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Vandon",
+            "Goblin"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Barão Coruja",
+    "race": "Demônio",
+    "element": "Neutro",
+    "size": "Grande",
+    "tips": "Ataques de outros tipos não causam dano extra e ataques Fantasmas causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Andre"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Andre",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Cavaleiro Sanguinário",
+    "race": "Amorfo",
+    "element": "Sombrio",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques Sagrados para causar dano extra, já ataques de Veneno, Sombrio, Mortos-Vivos e Fantasma causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Sagrado"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Ovo de Peco Peco"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Ovo de Peco Peco"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Lorde das Trevas",
+    "race": "Demônio",
+    "element": "Morto-Vivo",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Fogo, Sagrados e Fantasma para causar dano extra, já ataques de Veneno, Sombrio e Mortos-Vivos causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Fogo",
+      "Sagrado",
+      "Fantasma"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Hatti",
+    "race": "Bruto",
+    "element": "Água",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Vento e Veneno para causar dano extra, já ataques de água e Fogo causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Vento",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Drainliar"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Goblin"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Drainliar",
+            "Goblin"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Cavaleiro da Tempestade",
+    "race": "Amorfo",
+    "element": "Vento",
+    "size": "Grande",
+    "tips": "Recomenda-se o uso de ataques de Terra e Veneno para causar dano extra, já ataques de Água e Vento causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [
+      "Terra",
+      "Veneno"
+    ],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Mandrágora"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Ovo de Peco Peco"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Mandrágora",
+            "Ovo de Peco Peco"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Gerente do Tempo",
+    "race": "Demônio",
+    "element": "Neutro",
+    "size": "Grande",
+    "tips": "Ataques de outros tipos não causam dano extra e ataques Fantasmas causam dano reduzido.",
+    "event": "MVP",
+    "recommended_elements": [],
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Andre"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Strouf"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Andre",
+            "Strouf"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Jogadores",
+    "race": "Humanoide",
+    "element": "Neutro",
+    "size": "Médio",
+    "tips": "",
+    "event": "PvP",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Andre"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Hidra"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Andre",
+            "Hidra"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Ódio",
+    "race": "Planta",
+    "element": "Sagrado",
+    "size": "Pequeno",
+    "tips": "",
+    "event": "Juperos",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Creamy (Éter)",
+            "Orc Esqueleto"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Creamy (Éter)",
+            "Escorpião"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Orc Esqueleto",
+            "Escorpião"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Pesar",
+    "race": "Planta",
+    "element": "Sagrado",
+    "size": "Pequeno",
+    "tips": "",
+    "event": "Juperos",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Creamy (Éter)",
+            "Orc Esqueleto"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Creamy (Éter)",
+            "Escorpião"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Orc Esqueleto",
+            "Escorpião"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Dragão Mutante",
+    "race": "Dragão",
+    "element": "Terra",
+    "size": "Grande",
+    "tips": "",
+    "event": "Anomalia Espaço-Tempo",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Senhora Orc (Nv. 15)"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Petite"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Senhora Orc (Nv. 15)",
+            "Petite"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Maior General",
+    "race": "Peixe",
+    "element": "Água",
+    "size": "Pequeno/Médio",
+    "tips": "",
+    "event": "Domínio Fantasma",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Não há",
+            "Drainliar"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Flora"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Drainliar",
+            "Flora"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Gnomo",
+    "race": "Amorfo",
+    "element": "Terra",
+    "size": "Grande",
+    "tips": "",
+    "event": "Templo do Pesadelo (T1)",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Senhora Orc (Nv. 15)"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Ovo de Peco Peco"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Senhora Orc (Nv. 15)",
+            "Ovo de Peco Peco"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Wendine",
+    "race": "Bruto",
+    "element": "Água",
+    "size": "Grande",
+    "tips": "",
+    "event": "Templo do Pesadelo (T1)",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Drainliar"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Goblin"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Drainliar",
+            "Goblin"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Salamdra",
+    "race": "Amorfo",
+    "element": "Fogo",
+    "size": "Médio",
+    "tips": "",
+    "event": "Templo do Pesadelo (T1)",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Vandon"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Ovo de Peco Peco"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Vandon",
+            "Ovo de Peco Peco"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Sílfide",
+    "race": "Humanoide",
+    "element": "Vento",
+    "size": "Médio",
+    "tips": "",
+    "event": "Templo do Pesadelo (T1)",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Mandrágora"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Esqueleto Operário",
+            "Hidra"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Mandrágora",
+            "Hidra"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  },
+  {
+    "name": "Mestre Elementar",
+    "race": "Fantasma",
+    "element": "Demônio",
+    "size": "Grande",
+    "tips": "",
+    "event": "Templo do Pesadelo (T1)",
+    "recommended_cards": {
+      "mao_dominante": [
+        {
+          "option": 1,
+          "description": [
+            "size",
+            "element"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 2,
+          "description": [
+            "size",
+            "race"
+          ],
+          "cards": [
+            "Minorous",
+            "Não há"
+          ]
+        },
+        {
+          "option": 3,
+          "description": [
+            "element",
+            "race"
+          ],
+          "cards": [
+            "Não há",
+            "Não há"
+          ]
+        }
+      ],
+      "mao_secundaria": "",
+      "armadura": "",
+      "capa": "",
+      "calcado": "",
+      "acessorio": "",
+      "chapeu": "",
+      "face": "",
+      "boca": "",
+      "costas": "",
+      "fantasia": ""
+    }
+  }
+]

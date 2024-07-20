@@ -12,6 +12,7 @@
   "dependencies": {
     "@vercel/node": "^3.2.2",
     "axios": "^1.7.2",
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "vercel": "^35.0.3"
   }

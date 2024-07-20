@@ -1,0 +1,343 @@
+{
+  "mao_dominante": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": "Mandrágora|Sropho|Zangão"},
+      {"element": "Terra", "card": "Senhora Orc (Nv. 5/10/15)"},
+      {"element": "Fogo", "card": "Vandon"},
+      {"element": "Água", "card": "Drainliar|Filhote de Hatii|Obeaune Ancestral"},
+      {"element": "Veneno", "card": "Zenorc"},
+      {"element": "Sagrado", "card": "Orc Esqueleto"},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": "Goblin Arqueiro|Goblin Arqueiro (Éter)"}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": "Creamy (Éter)|Lunático (Éter)|Picky Angelical"},
+      {"size": "Médio", "card": "Esqueleto Operário|Esqueleto Operário (Ilusória)|Zumbi (Éter)"},
+      {"size": "Grande", "card": "Minorous|Minorous (Ilusória)|Grizzly Pêlo de Aço (Éter)"}
+    ],
+    "race": [
+      {"race": "Bruto", "card": "Goblin|Goblin (Éter) (Nv. 5/10/15)|Cruiser|Deviace"},
+      {"race": "Humanoide", "card": "Hidra|Hidra (Ilusória)|Hidra (Éter)|Deviace|Ancião (Empérium)|Deviace"},
+      {"race": "Demônio", "card": "Strouf|Strouf (Éter) (Nv. 5/10/15)|Relógio"},
+      {"race": "Morto-Vivo", "card": "Goblin Arqueiro|Goblin Arqueiro (Éter)"},
+      {"race": "Planta", "card": "Escorpião|scorpião (Éter) (Nv. 5/10/15)|Deviace|Sapo de Roda (Éter)"},
+      {"race": "Inseto", "card": "Deviace|Sapo de Roda (Éter)"},
+      {"race": "Peixe", "card": "Flora|Flora (Éter) (nv. 5/10/15)|Encouraçado (Nv. 5/10)|Giro-Goblin (CRÍT)"},
+      {"race": "Amorfo", "card": "Ovo de Peco Peco"},
+      {"race": "Anjo", "card": "Sussuro (Éter)"},
+      {"race": "Dragão", "card": "Petite|Petite (Éter)|Furador"}
+    ]
+  },
+  "mao_secundaria": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": null},
+      {"element": "Terra", "card": "Munak"},
+      {"element": "Fogo", "card": null},
+      {"element": "Água", "card": null},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": "Mysteltainn"},
+      {"size": "Médio", "card": "Augertus"},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": "Guerreiro Orc"},
+      {"race": "Humanoide", "card": "Sapo de Thara"},
+      {"race": "Demônio", "card": "Khalitzburg"},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": "Pé Grande"},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": "Penomena"},
+      {"race": "Anjo", "card": "Anúbis"},
+      {"race": "Dragão", "card": "Petite Voador"}
+    ]
+  },
+  "armadura": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": "Chonchon de Aço|Dokebi"},
+      {"element": "Terra", "card": "Arenoso"},
+      {"element": "Fogo", "card": "Pasana"},
+      {"element": "Água", "card": "Peixe Espada|Cavalo-Marinho|Dofle"},
+      {"element": "Veneno", "card": "Argiope"},
+      {"element": "Sagrado", "card": "Angeling|Angeling (Ilusória)"},
+      {"element": "Sombrio", "card": "Bathory|Rybio"},
+      {"element": "Fantasma", "card": "Ghostring"},
+      {"element": "Morto-Vivo", "card": "Druida Maligno|Planta Carnívora"}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": "Selvagem"},
+      {"race": "Humanoide", "card": null},
+      {"race": "Demônio", "card": "Planta Carnívora"},
+      {"race": "Morto-Vivo", "card": "Planta Carnívora"},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "capa": {
+    "element": [
+      {"element": "Neutro", "card": "Ancião Ancestral|Bebê Orc|Deviling|Raydric"},
+      {"element": "Vento", "card": "Poeira"},
+      {"element": "Terra", "card": "Hode|Ancião Ancestral (Nv.15)"},
+      {"element": "Fogo", "card": "Jakk"},
+      {"element": "Água", "card": "Marte"},
+      {"element": "Veneno", "card": "Névoa"},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": "Isis"},
+      {"element": "Fantasma", "card": "Marionete"},
+      {"element": "Morto-Vivo", "card": "Orc Zumbi"}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": null},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": "Orc Zumbi"},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "calcado": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": null},
+      {"element": "Terra", "card": null},
+      {"element": "Fogo", "card": null},
+      {"element": "Água", "card": null},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": "Zumbi Prisioneiro"}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": null},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": "Zumbi Prisioneiro"},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": "Cookie Verde"},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "acessorio": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": null},
+      {"element": "Terra", "card": "Coringa"},
+      {"element": "Fogo", "card": null},
+      {"element": "Água", "card": "Marin"},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": "Cookie Doce"},
+      {"element": "Sombrio", "card": "Raydric Arqueiro"},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": null},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "chapeu": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": "Zangão Gigante"},
+      {"element": "Terra", "card": "Giearth"},
+      {"element": "Fogo", "card": "Eggy de Colher (nv.5/10/15)|Eggy de Garfo (nv.5/10/15)"},
+      {"element": "Água", "card": null},
+      {"element": "Veneno", "card": "Carniçal"},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": "Eggy de Colher|Eggy de Garfo"},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "face": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": null},
+      {"element": "Terra", "card": null},
+      {"element": "Fogo", "card": null},
+      {"element": "Água", "card": null},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": "Marionete Flor do Luar I|Marionete Flor do Luar II"},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": "Marionete Eddga I|Marionete Eddga II+"}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": null},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "boca": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": null},
+      {"element": "Terra", "card": null},
+      {"element": "Fogo", "card": null},
+      {"element": "Água", "card": null},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": "Beijo da Rosa|Marionete Freeoni I|Marionete Freeoni II"},
+      {"size": "Médio", "card": "Marionete Doppelganger I|Marionete Doppelganger II"},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": "Chupeta de Bebê"},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "costas": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": "Tambor de Doram"},
+      {"element": "Terra", "card": "Tambor de Doram"},
+      {"element": "Fogo", "card": "Tambor de Doram"},
+      {"element": "Água", "card": "Tambor de Doram"},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": null},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": "Marionete Deviling II+"},
+      {"race": "Demônio", "card": null},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  },
+  "fantasia": {
+    "element": [
+      {"element": "Neutro", "card": null},
+      {"element": "Vento", "card": null},
+      {"element": "Terra", "card": null},
+      {"element": "Fogo", "card": null},
+      {"element": "Água", "card": null},
+      {"element": "Veneno", "card": null},
+      {"element": "Sagrado", "card": "Túnica de Atenas"},
+      {"element": "Sombrio", "card": null},
+      {"element": "Fantasma", "card": null},
+      {"element": "Morto-Vivo", "card": null}
+    ],
+    "size": [
+      {"size": "Pequeno", "card": null},
+      {"size": "Médio", "card": null},
+      {"size": "Grande", "card": null}
+    ],
+    "race": [
+      {"race": "Bruto", "card": null},
+      {"race": "Humanoide", "card": "Marionete Bafomé I|Marionete Bafomé II"},
+      {"race": "Demônio", "card": "Túnica de Atenas"},
+      {"race": "Morto-Vivo", "card": null},
+      {"race": "Planta", "card": null},
+      {"race": "Inseto", "card": null},
+      {"race": "Peixe", "card": null},
+      {"race": "Amorfo", "card": null},
+      {"race": "Anjo", "card": null},
+      {"race": "Dragão", "card": null}
+    ]
+  }
+}
