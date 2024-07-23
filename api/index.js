@@ -11,6 +11,7 @@ app.use(cors({
 let cards = [];
 let mvps = [];
 let recommendationsCards = {};
+let beltCards = [];
 let packageJson = {};
 
 const armamentoToFolder = {
@@ -31,10 +32,12 @@ try {
     const cardsPath = path.join(__dirname, 'cards.json');
     const mvpsPath = path.join(__dirname, 'mvps.json');
     const recommendationsCardsPath = path.join(__dirname, 'recommendations_cards.json');
+    const beltCardsPath = path.join(__dirname, 'belt_cards.json');
     const packagePath = path.join(__dirname, '../package.json');
 
     cards = JSON.parse(fs.readFileSync(cardsPath, 'utf8'));
     mvps = JSON.parse(fs.readFileSync(mvpsPath, 'utf8'));
+    beltCards = JSON.parse(fs.readFileSync(beltCardsPath, 'utf8'));
     recommendationsCards = JSON.parse(fs.readFileSync(recommendationsCardsPath, 'utf8'));
     packageJson = JSON.parse(fs.readFileSync(packagePath, 'utf8'));
 } catch (e) {
@@ -71,6 +74,42 @@ function filterByQuery(data, query) {
             return itemValue === queryValue;
         });
     });
+}
+
+function filterRecommendations(data, query) {
+    const { race, size, element } = query;
+    let filteredData = {};
+
+    Object.keys(data).forEach(key => {
+        filteredData[key] = {};
+
+        if (race) {
+            filteredData[key].race = data[key].race.filter(item => item.race.toLowerCase() === race.toLowerCase());
+        }
+
+        if (size) {
+            filteredData[key].size = data[key].size.filter(item => item.size.toLowerCase() === size.toLowerCase());
+        }
+
+        if (element) {
+            filteredData[key].element = data[key].element.filter(item => item.element.toLowerCase() === element.toLowerCase());
+        }
+    });
+
+    // Remove empty arrays from the response
+    Object.keys(filteredData).forEach(key => {
+        if (!filteredData[key].race || filteredData[key].race.length === 0) {
+            delete filteredData[key].race;
+        }
+        if (!filteredData[key].size || filteredData[key].size.length === 0) {
+            delete filteredData[key].size;
+        }
+        if (!filteredData[key].element || filteredData[key].element.length === 0) {
+            delete filteredData[key].element;
+        }
+    });
+
+    return filteredData;
 }
 
 app.get('/', (req, res) => {
@@ -130,8 +169,13 @@ app.get('/mvps', async (req, res) => {
     res.json(mvpsWithImages);
 });
 
-app.get('/recommendations', async (req, res) => {
-    res.json(recommendationsCards);
+app.get('/recommendations', (req, res) => {
+    const filteredRecommendations = filterRecommendations(recommendationsCards, req.query);
+    res.json(filteredRecommendations);
+});
+
+app.get('/belt-cards', (req, res) => {
+    res.json(beltCards);
 });
 
 app.use('/mvp/image', express.static(path.join(__dirname, '../database/images/monstros/mvp')));
