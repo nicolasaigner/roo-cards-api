@@ -88,7 +88,7 @@ GET /card/image/chapeu/Abelha-Rainha (Ilusória).png
 
 Essa API é um projeto pessoal em que está em desenvolvimento, não é algo que estou totalmente focado a fazer no momento, mas as vezes estou atualizando e melhorando. No momento o código é para retornar as cartas, atributos, desperto e imagens das mesmas. 
 
-## Contribuindo
+## Contribuindo com o projeto
 
 Contribuições são o que fazem a comunidade open-source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
